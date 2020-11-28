@@ -51,6 +51,21 @@ p {
 ```
 
 ## Cascade
+**Alle elementen binnen de root waar je --my-cool-color toepast, zullen HotPink overerven.**
+```css
+:root {
+--my-cool-color: HotPink;
+}
+```
+**Alle elementen in .foo ervan #BADA55 over.**
+```css
+p {
+color: var(--my-cool-color);
+}
+.foo {
+--my-cool-color: #BADA55;
+}
+```
 
 ## Hoisting
 
@@ -59,6 +74,6 @@ p {
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Mzg2Mzc0LC0xNzkxODcxMTMzLDk3MT
-MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg5NTgzMTM4NiwtMTc5MTg3MTEzMyw5Nz
+EzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
 -->
