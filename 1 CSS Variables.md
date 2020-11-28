@@ -51,13 +51,14 @@ p {
 ```
 
 ## Cascade
-**Alle elementen binnen de root waar je --my-cool-color toepast, zullen HotPink overerven.**
+**CSS Variables zijn onderhevig aan de cascade en inheritance regels**
+Alle elementen binnen de root waar je --my-cool-color toepast, zullen HotPink overerven.
 ```css
 :root {
 --my-cool-color: HotPink;
 }
 ```
-**Alle elementen in .foo ervan #BADA55 over.**
+Alle elementen in .foo ervan #BADA55 over.
 ```css
 p {
 color: var(--my-cool-color);
@@ -66,6 +67,7 @@ color: var(--my-cool-color);
 --my-cool-color: #BADA55;
 }
 ```
+**CSS Variables kunnen conditioneel zijn met @media en andere conditionele regels**
 
 ## Hoisting
 
@@ -74,6 +76,7 @@ color: var(--my-cool-color);
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTgzMTM4NiwtMTc5MTg3MTEzMyw5Nz
-EzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTE5ODUwNzE4LC04OTU4MzEzODYsLTE3OT
+E4NzExMzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZd
+fQ==
 -->
