@@ -24,7 +24,17 @@ p {
 **Use calc() to do math**
 ```css
 :root {
-	--whitespace-lg: calc(var(--whitesp
+	--whitespace-lg: calc(var(--whitespace) * 2);
+}
+```
+
+**Kan bestaan uit andere variables**
+```css
+:root {
+	--transition-property: all;
+--transition-duration: .1s;
+--transition-timing-function: ease-out;
+--transition: var(--transtion-property) var(--transition-duration) var(--transition-timingfunction);
 }
 ```
 
@@ -37,6 +47,6 @@ p {
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzQ3Nzg4NywtMTc5MTg3MTEzMyw5Nz
-EzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTUzNjQ1MzExLC0xNzkxODcxMTMzLDk3MT
+MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
