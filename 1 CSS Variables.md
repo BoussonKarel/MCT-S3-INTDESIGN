@@ -32,9 +32,9 @@ p {
 ```css
 :root {
 	--transition-property: all;
---transition-duration: .1s;
---transition-timing-function: ease-out;
---transition: var(--transtion-property) var(--transition-duration) var(--transition-timingfunction);
+	--transition-duration: .1s;
+	--transition-timing-function: ease-out;
+	--transition: var(--transtion-property) var(--transition-duration) var(--transition-timingfunction);
 }
 ```
 
@@ -47,6 +47,6 @@ p {
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjQ1MzExLC0xNzkxODcxMTMzLDk3MT
+eyJoaXN0b3J5IjpbMjUwNzYyMzkxLC0xNzkxODcxMTMzLDk3MT
 MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
