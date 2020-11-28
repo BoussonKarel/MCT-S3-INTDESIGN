@@ -9,15 +9,16 @@
 **Defining the variable**
 ```css
 :root {
-	--my-cool-color: HotPink;
-	--ITS-CASE-SENSITIVE: true;
-	--its-case-sensitive: f
+	--ITS-CASE-SENSITIVE: red;
+	--its-case-sensitive: green;
 }
 ```
 
 **Applying the variable**
 ```css
-color: var(--my-cool-color);
+p {
+	color: var(--ITS-CASE-SENSITIVE); /* red */
+}
 ```
 
 ## Cascade
@@ -29,6 +30,6 @@ color: var(--my-cool-color);
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNjg4NDI4LC0xNzkxODcxMTMzLDk3MT
-MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3NTgzNDc2NzAsLTE3OTE4NzExMzMsOT
+cxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
