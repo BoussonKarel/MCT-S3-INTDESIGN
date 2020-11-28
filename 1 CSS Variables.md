@@ -8,7 +8,11 @@
 ## Opbouw & syntax
 **Defining the variable**
 ```css
---my-cool-color: HotPink;
+:root {
+	--my-cool-color: HotPink;
+	--ITS-CASE-SENSITIVE: true;
+	--its-case-sensitive: f
+}
 ```
 
 **Applying the variable**
@@ -25,6 +29,6 @@ color: var(--my-cool-color);
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0Mz
-MzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODQyNjg4NDI4LC0xNzkxODcxMTMzLDk3MT
+MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
