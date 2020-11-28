@@ -68,6 +68,15 @@ color: var(--my-cool-color);
 }
 ```
 **CSS Variables kunnen conditioneel zijn met @media en andere conditionele regels**
+```css
+@media screen and (min-width: 768px) {
+	:root {
+		--whitespace: 2em;
+	}
+}
+```
+**Dark themes**
+@media (prefers-color-schema: dark)
 
 ## Hoisting
 
@@ -76,7 +85,7 @@ color: var(--my-cool-color);
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5ODUwNzE4LC04OTU4MzEzODYsLTE3OT
-E4NzExMzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNz
+kxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2
+XX0=
 -->
