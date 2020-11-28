@@ -31,17 +31,18 @@ p {
 **Kan bestaan uit andere variables**
 ```css
 :root {
-	--border-width: 1;
-	--border-type: .1s;
-	--border-color: ease-out;
-	--transition: var(--transtion-property) var(--transition-duration) var(--transition-timingfunction);
+	--border-width: 1px;
+	--border-type: solid;
+	--border-color: blue;
+	--border: var(--border-width) var(--border-type) var(--border-color);
 }
 ```
 
-**Default values**
+**Default values (with other variables)**
 ```css
 .c-button {
 	border: 1px solid var(--button-color, HotPink);
+	/* border: 1px solid var(--button-color, var(--text-color)); */
 }
 
 .c-button--beta {
@@ -58,6 +59,6 @@ p {
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU0NDY3ODksLTE3OTE4NzExMzMsOT
-cxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODQ4Mzg2Mzc0LC0xNzkxODcxMTMzLDk3MT
+MwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
