@@ -1,9 +1,10 @@
 # CSS Variables
 ## Wat
 
- - List item
-
-## Syntax
+ - CSS Variables / Custom properties / Cascading variables
+ - Veelgebruikte values naar variables
+ - To keep consistency, set g
+## Opbouw & syntax
 
 ## Cascade
 
@@ -14,6 +15,6 @@
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMjMwNzUzMDYsOTcxMzAxODM1LDE0Mz
+MzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
