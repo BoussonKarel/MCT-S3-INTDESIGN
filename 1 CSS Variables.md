@@ -6,9 +6,15 @@
  - To keep consistency, set globial variables for everything except layout values
 
 ## Opbouw & syntax
-**Custom property: value**
-´´´css
-´´´
+**Defining the variable**
+```css
+--my-cool-color: HotPink;
+```
+
+**Applying the variable**
+```css
+color: var(--my-cool-color);
+```
 
 ## Cascade
 
@@ -19,6 +25,6 @@
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAwNjYxMzcsOTcxMzAxODM1LDE0Mz
+eyJoaXN0b3J5IjpbLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0Mz
 MzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
