@@ -85,6 +85,18 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ```
 - Geen input type
 - Apart element
+- multi-line text input control
+
+### Select
+```html
+<select>
+	<option value="volvo">Volvo</option>
+	<option value="mercedes">Mercedes</option>
+</select>
+```
+- Geen input type
+- Apart element
+- multi-line text input control
 ## Attributes
 
 ## Labels
@@ -96,7 +108,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMT
-IyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2
-MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUzNDQ1NzcyMyw1NzY4OTk3MDcsLTExMT
+g2NzQ5NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3
+Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
