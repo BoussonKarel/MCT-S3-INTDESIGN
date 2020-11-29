@@ -1,13 +1,20 @@
 # Focus on forms
 ## Form
+
 ## Input types
-## Input
-## Input
-## Input
-## Input
-## Input
-## Input
-## Input
+
+## Checkbox or toggle
+
+## Attributes
+
+## Labels
+
+## Button
+
+## Focus
+
+## Validation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDI2NjM4NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTEzOTgxNTIyOSwtMjA4ODc0NjYxMl19
 -->
