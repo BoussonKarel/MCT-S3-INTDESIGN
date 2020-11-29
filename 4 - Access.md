@@ -85,11 +85,11 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 ## Privilege escalation
 - Zichzelf een ander gebruikerniveau
 - Horizontale escalation
-  - d
-- Verticale escalation
-  - d
+  - Session hijacking van een andere gebruiker
+- Vertical escalation
+  - Meer machtigingen verwerven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDEyNDA4OCwtNjk5OTYyNjMxLDg5MD
-U3NjI4NywxMjk5NDIxNDgyLC0zNTU2NjE0MDMsLTg0ODE2ODY2
-MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbMTk2MzM2MDQzMCwyMDYwMTI0MDg4LC02OT
+k5NjI2MzEsODkwNTc2Mjg3LDEyOTk0MjE0ODIsLTM1NTY2MTQw
+MywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMTk2Mzk2NzA2Nl19
 -->
