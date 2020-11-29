@@ -97,7 +97,14 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - Geen input type
 - Apart element
 - drop-down list
-- Option tags define the available options in th
+- Option tags define the available options in the list
+- Native select behouden als je designt: gebruiksvriendelijker op smartphone
+
+### Range
+- Slider control
+- Voor nummers
+- Default range 0 - 100
+- Restrictions mogelijk met min, max, step attributen
 ## Attributes
 
 ## Labels
@@ -109,7 +116,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjQyMjQ2LDU3Njg5OTcwNywtMTExOD
-Y3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5Njcz
-OTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMT
+g2NzQ5NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3
+Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
