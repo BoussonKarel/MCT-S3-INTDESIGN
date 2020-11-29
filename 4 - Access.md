@@ -30,7 +30,11 @@ De beste wachtwoorden zijn **voldoende lang**
  - Let erop dat het wachtwoord voldoende sterk is
  - Gebruik geen logisch patroon
  - Mijd hergebruik
+ - Wijzig je wachtwoorden regelmatig
+ - Leen nooit een wachtwoord uit
+- Gebruik 2FA voor authenticatie
+- Mijd eventueel gebruik van een wachtwoordkluis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTE2MTYzLDE5NjM5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
 -->
