@@ -39,11 +39,18 @@ Zien er visueel ongeveer hetzelde uit.
 
 ### Time-achtigen
 Zien er visueel ongeveer hetzelfde uit als de text-achtigen
-- **date:** basis input type voor HTML5 input types
-- **week:** vervangt letters door bolletjes
-- **month:** toont een variant 
+- **date:** toont een native date picker
+- **week:** toont een variant van de native date picker
+- **month:** toont een variant van de native date picker
 - **number:** aanvaardt enkel nummers
 - **tel:** handig voor mobile
+
+### Time-achtigen
+**checkbox**
+ - toont een native date picker
+
+**radio(button)**
+toont een variant van de native date 
 
 ## Checkbox or toggle
 
@@ -58,6 +65,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjQ0MDczNywtNzIwOTY3Mzk4LC01OD
-gwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNzM1Mzk1ODQ5LC03MjA5NjczOTgsLTU4OD
+A4NjAsLTIwODg3NDY2MTJdfQ==
 -->
