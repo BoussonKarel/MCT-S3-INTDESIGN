@@ -179,23 +179,23 @@ De hoofdreden om global variables te hebben is consistentie.
 ```css
 .c-alert {
 	/* Component scoped variables are always defined by global variables */
-	--c-alert--Padding: var(--global--spacer--md);
-	--c-alert--primary--BackgroundColor: var(--global--primary-color);
-	--c-alert__title--FontSize: var(--global--secondary-title--fontSize);
+	--c-alert--Padding: var(--global-spacer-md);
+	--c-alert--primary--BackgroundColor: var(--global-primary-color);
+	--c-alert__title--FontSize: var(--global-secondary-title-fontSize);
 	/* --block--propertyCamelCase */
-	padding: var(--c-alert--padding);
+	padding: var(--c-alert-padding);
 }
 /* --block--state--propertyCamelCase */
 .c-alert--primary {
-background-color: var(--c-alert--primary--backgroundColor);
+	background-color: var(--c-alert-primary-backgroundColor);
 }
 /* --block__element--propertyCamelCase */
 .c-alert__title {
-font-size: var(--c-alert__title--fontSize);
+	font-size: var(--c-alert__title-fontSize);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODc5NjIwMyw0NDc3OTg5MzQsLTEwMT
+eyJoaXN0b3J5IjpbLTY0MjAyNzk4MCw0NDc3OTg5MzQsLTEwMT
 gwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMx
 MjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLD
 k3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
