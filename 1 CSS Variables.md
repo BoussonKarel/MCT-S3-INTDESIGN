@@ -148,11 +148,17 @@ Systeem om global variables te gebruiken in local variables
 **Global level**
 De hoofdreden om global variables te hebben is consistentie.
 
- - Prefix --global
+```css
+--global-concept-modifier-state-propertyCamelCase
+```
+
+ - Concept: space, main-title, text...
+ - State: hover, expanded...
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQzNzMwNSwtMTAxODA2NzU0MCwtMT
-A5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNCwxMjczODUy
-MDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LD
-E0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTQ0MDYxODk2LC0xMDE4MDY3NTQwLC0xMD
+kzNjI3MDg0LC01MTE0NjI2NjIsNzkyOTEzMTI0LDEyNzM4NTIw
+MTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEzMyw5NzEzMDE4MzUsMT
+QzMzMwMTA1LDczMDk5ODExNl19
 -->
