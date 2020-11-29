@@ -37,8 +37,15 @@ TAPE DRIVE ~ € 4.000
 - Strategie
 - Type
 - Opslag
-  - Dc
+  - Dichtbij de server voor snelle toegang
+  - Op een andere locatie voor veiligheid
+- Controle van integriteit back-up
+- Testen van disaster-recovery plan
+
+### Grootvader-vader-zoon systeem
+Back-up rotatie
+Archiveri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA0NDA1OTEsLTkxMDgzMjE3Nyw3Mz
-UxNzI3ODUsLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
+eyJoaXN0b3J5IjpbLTQ1NjQ1Mzc1LC05MTA4MzIxNzcsNzM1MT
+cyNzg1LC0xMTQ5OTYxODQwLC0yOTE3MDA1MDhdfQ==
 -->
