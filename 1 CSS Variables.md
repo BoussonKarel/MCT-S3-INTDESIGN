@@ -151,7 +151,6 @@ De hoofdreden om global variables te hebben is consistentie.
 ```css
 --global-concept-modifier-state-propertyCamelCase
 ```
-
  - Concept: space, main-title, text...
  - State: hover, expanded...
  - Modifier: sm, lg...
@@ -174,10 +173,12 @@ De hoofdreden om global variables te hebben is consistentie.
 ```css
 --block__element-modifier-state-propertyCamelCase
 ```
+ - The block__element-modifier t
+
 De hoofdreden om global variables te hebben is consistentie.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNDY3Nzk1LDQ0Nzc5ODkzNCwtMTAxOD
-A2NzU0MCwtMTA5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEy
-NCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOT
-cxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM0MDY5NjMxNCw0NDc3OTg5MzQsLTEwMT
+gwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMx
+MjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLD
+k3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
