@@ -145,7 +145,7 @@ Ideaal voor components.
 ### The two-level theming system
 Systeem om global variables te gebruiken in local variables
 
-**Global level**
+#### Global level
 De hoofdreden om global variables te hebben is consistentie.
 
 ```css
@@ -169,9 +169,15 @@ De hoofdreden om global variables te hebben is consistentie.
 	--global-hover-BackgroundColor: #ccc;
 }
 ```
+
+#### Local level
+```css
+--block__element-modifier-state-propertyCamelCase
+```
+De hoofdreden om global variables te hebben is consistentie.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3Nzk4OTM0LC0xMDE4MDY3NTQwLC0xMD
-kzNjI3MDg0LC01MTE0NjI2NjIsNzkyOTEzMTI0LDEyNzM4NTIw
-MTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEzMyw5NzEzMDE4MzUsMT
-QzMzMwMTA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjUyNDY3Nzk1LDQ0Nzc5ODkzNCwtMTAxOD
+A2NzU0MCwtMTA5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEy
+NCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOT
+cxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
