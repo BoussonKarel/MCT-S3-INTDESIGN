@@ -105,6 +105,12 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - Voor nummers
 - Default range 0 - 100
 - Restrictions mogelijk met min, max, step attributen
+
+### Hors catégorie
+- **file:** file upload
+- **hidden:** voor developers
+- **color:** toont vreemde color picker
+
 ## Attributes
 
 ## Labels
@@ -116,7 +122,8 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMT
-g2NzQ5NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3
-Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTE1NDAwNDAyNSwtODcxNzU1NDM0LDU3Nj
+g5OTcwNywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYw
+MzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ
+==
 -->
