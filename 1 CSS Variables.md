@@ -120,12 +120,31 @@ Kan je overal hergebruiken **en** overschrijven.
 ### Local scoped variables
 Local scoped variables worden gedeclareerd binnen een specifieke selector.
 
-Ze hebben access tot glob
+Ze hebben access tot global scoped variables.
+
+Ideaal voor components.
+
+```css
+.alert {
+	--alert-color: #222;
+	color: var(--alert-color);
+	border-color: var(--alert-color);
+}
+
+:root {
+	--global-fontSize: 16px;
+}
+
+.c-button {
+	--button-fontSize: var(--global-fontSize);
+	font-size: var(--button-fontSize);
+}
+```
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTI0NjU5NSwtNTExNDYyNjYyLDc5Mj
-kxMzEyNCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzEx
-MzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OT
+I5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcx
+MTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
