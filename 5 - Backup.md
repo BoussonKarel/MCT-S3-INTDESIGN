@@ -3,13 +3,17 @@
 - Concrete back-up policy
 - Disaster recovery plan
 
-**Backup-media**
+## Backup-media
 - Tape?
 - Harddisk?
 - USB-stick?
 - Cloud-backup?
 
 RAID is GEEN back-up!
+
+### LTO Tapes
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
+eyJoaXN0b3J5IjpbNzM1MTcyNzg1LC0xMTQ5OTYxODQwLC0yOT
+E3MDA1MDhdfQ==
 -->
