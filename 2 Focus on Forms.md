@@ -200,16 +200,16 @@ Deze volgorde in de CSS is belangrijk!
 - Extra feedback
 
 #### :focus
-- Gebruiker klikt met de muis
-- Mobiele toestellen: als een gebruiker een element "induwt"
-- Extra feedback
+- Toont duidelijk welk element op de pagina keyboard events kan ontvangen
+- Element heeft een duidelijke focus ring of outline of nadere visuele cue
+- 
 
 ## Focus
 
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTQ5MTc1MSw0NDE2ODM5ODIsMTAzNT
+eyJoaXN0b3J5IjpbLTgxNjI3NTAzMiw0NDE2ODM5ODIsMTAzNT
 gyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3
 LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLT
 cyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
