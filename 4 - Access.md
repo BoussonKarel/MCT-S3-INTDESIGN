@@ -61,12 +61,12 @@ Vaak gaan ze proberen **spear phishing** te doen: fake login, keylogger...
 Grotere investering
 
 Gedeeld geheim, gekend bij zowel server als authenticator.
-en op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegenereerd.
+Op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegenereerd.
 
 
 ### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NTg4NTgzLC0zNTU2NjE0MDMsLTg0OD
-E2ODY2MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbMTI5OTQyMTQ4MiwtMzU1NjYxNDAzLC04ND
+gxNjg2NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
 -->
