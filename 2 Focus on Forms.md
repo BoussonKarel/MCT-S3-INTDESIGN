@@ -77,6 +77,9 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - Invloed op de volledige app
 - Binary options
 
+![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
+
+
 ## Attributes
 
 ## Labels
@@ -88,7 +91,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTg2NzQ5NDYsLTExMjI5MjI0NzgsMT
-cwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTExNzIwMjI5NiwtMTExODY3NDk0NiwtMT
+EyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4
+NjAsLTIwODg3NDY2MTJdfQ==
 -->
