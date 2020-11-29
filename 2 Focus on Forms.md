@@ -65,11 +65,10 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Enkele ja/nee optie
 
 **Toggle switch = veredelde checkbox**
- - Checked of niet
- - Heeft nog confirmatie nodig
- - Meerdere opties die bij elkaar horen
- - Checken van sub options (intermediate state)
- - Enkele ja/nee optie
+ - Aan of af zetten
+ - Instant response zonder confirmatie
+ - Afzonderlijke features of settings
+ - Enkele aan/af beslissing
 
 ## Attributes
 
@@ -82,6 +81,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NDg0NDYsMTcwMDI2MDMzMywtNzIwOT
-Y3Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk2NDEyMTM0MCwxNzAwMjYwMzMzLC03Mj
+A5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
 -->
