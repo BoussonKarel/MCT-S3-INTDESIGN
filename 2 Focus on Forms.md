@@ -157,7 +157,7 @@ Eigenschappen van de input
 <label for=“input_id”>label text</label>
 <input type=“text” name=“whatever” id=“input_id”>
 
-<!-- Manier 2:  -->
+<!-- Manier 2: label text niet aanspreekbaar met CSS -->
 <label>
 label text
 <input type=“text” name=“whatever” id=“input_id”>
@@ -165,14 +165,29 @@ label text
 ```
 
 ## Button
+**Elk formulier moet een button hebben**
+```html
+<!-- Als input type -->
+<input type=“submit” value=“verzenden”>
+<input type=“button” value=“verzenden”>
 
+<!-- Als button element -->
+<button>verzenden</button>
+```
+**Gebruik het button element!**
+```html
+<button class=“c-button”>
+	<span class=“c-button__label”>Verzenden</span>
+	<svg class=“c-button__symbol>…</svg>
+</button>
+```
 ## Focus
 
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDk5Mjk1MSwxMDM1ODI3NTgyLDExNT
-QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
-NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
-01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIxMzE5MDM0MDksMTAzNTgyNzU4MiwxMT
+U0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0
+OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OC
+wtNTg4MDg2MCwtMjA4ODc0NjYxMl19
 -->
