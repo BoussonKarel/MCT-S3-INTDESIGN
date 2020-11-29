@@ -37,6 +37,14 @@ Zien er visueel ongeveer hetzelde uit.
 - - heeft pijltjes om te vermeerderen of verminderen
 - **tel:** aanvaardt ook enkel nummers
 
+### Time-achtigen
+Zien er visueel ongeveer hetzelfde uit als de text-achtigen
+- **date:** basis input type voor HTML5 input types
+- **week:** vervangt letters door bolletjes
+- **month:** toont een variant 
+- **number:** aanvaardt enkel nummers
+- **tel:** handig voor mobile
+
 ## Checkbox or toggle
 
 ## Attributes
@@ -50,6 +58,6 @@ Zien er visueel ongeveer hetzelde uit.
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI0NzQwOTcsLTcyMDk2NzM5OCwtNT
-g4MDg2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTg5NjQ0MDczNywtNzIwOTY3Mzk4LC01OD
+gwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
