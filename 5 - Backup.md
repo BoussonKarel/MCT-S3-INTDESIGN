@@ -23,7 +23,9 @@ TAPE DRIVE ~ € 4.000
 - Betrouwbaar
 - Beschikbaar (Available)
 - Veilig opgeslagen (Confidential)
+
+![3 copies, on 2 formats, with 1 off](https://i.imgur.com/5KTX8wo.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0ODczNzMzLC05MTA4MzIxNzcsNzM1MT
-cyNzg1LC0xMTQ5OTYxODQwLC0yOTE3MDA1MDhdfQ==
+eyJoaXN0b3J5IjpbMjA2OTI2NzgzMywtOTEwODMyMTc3LDczNT
+E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
 -->
