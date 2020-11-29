@@ -96,7 +96,8 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ```
 - Geen input type
 - Apart element
-- multi-line text input control
+- drop-down list
+- Option tags define the available options in th
 ## Attributes
 
 ## Labels
@@ -108,7 +109,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDQ1NzcyMyw1NzY4OTk3MDcsLTExMT
-g2NzQ5NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3
-Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbODg0MjQyMjQ2LDU3Njg5OTcwNywtMTExOD
+Y3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5Njcz
+OTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
 -->
