@@ -200,6 +200,7 @@ Deze volgorde in de CSS is belangrijk!
 - Extra feedback
 
 #### :focus
+## Focus
 - Toont duidelijk welk element op de pagina keyboard events kan ontvangen
 - Element heeft een duidelijke focus ring of outline of nadere visuele cue
 - Te bedienen met keyboard: TAB of SHIFT TAB
@@ -207,14 +208,16 @@ Deze volgorde in de CSS is belangrijk!
 - Interactieve HTML elementen (input, buttons, links) zijn impliciet focusbaar. Ze worden automatisch aan de tab order toegevoegd.
 - Paragrafen, divs, images... zijn niet focusbaar
 
-## Focus
-
 ## Validation
-
+**Client-side validation**
+- Voor de data wordt doorgestuurd naar de server
+- Instant response
+- HTML5 validation
+  - Required, valid & invalid ps
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk3MzYzNTQsLTgxNjI3NTAzMiw0ND
-E2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0
-MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LD
-E3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTA0OTgyNDU0LC0yMDA5NzM2MzU0LC04MT
+YyNzUwMzIsNDQxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1NDAwNDAy
+NSwtODcxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0NiwtMT
+EyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4
+NjAsLTIwODg3NDY2MTJdfQ==
 -->
