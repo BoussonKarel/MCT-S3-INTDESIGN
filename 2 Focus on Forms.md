@@ -23,6 +23,13 @@ Belangrijkste, te kennen types:
 - Select
 - Range
 - Hors catégorie
+### HTML5 Input types
+- Browser validatie
+- Smartphone keyboard verandert (letters naar nummers...)
+
+### Text-achtigen
+Zien er visueel ongeveer hetzelde uit.
+
 
 ## Checkbox or toggle
 
@@ -37,6 +44,6 @@ Belangrijkste, te kennen types:
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDk2NzM5OCwtNTg4MDg2MCwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTU2Mzc0NDU1LC03MjA5NjczOTgsLTU4OD
+A4NjAsLTIwODg3NDY2MTJdfQ==
 -->
