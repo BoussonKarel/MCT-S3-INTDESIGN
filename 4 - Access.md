@@ -68,9 +68,12 @@ Op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegene
 - Vingerafdruk
 - Stem
 
+### Combinatie
+De combinatie van meerdere authenticatiemethodes verhoogt de veiligheid
 
+Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNTc2Mjg3LDEyOTk0MjE0ODIsLTM1NT
-Y2MTQwMywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMTk2Mzk2NzA2
-Nl19
+eyJoaXN0b3J5IjpbLTY5OTk2MjYzMSw4OTA1NzYyODcsMTI5OT
+QyMTQ4MiwtMzU1NjYxNDAzLC04NDgxNjg2NjEsLTg4OTEzMjE2
+NCwxOTYzOTY3MDY2XX0=
 -->
