@@ -3,7 +3,16 @@
 - HTML forms are a very powerful tool for interacting with users
 - Groot deel van een digitale interface
 - In veel vormen en maten
-- 
+### Basic form syntax
+```html
+<form action=“”>
+	<input type=“”>
+	...
+	Submit
+</form>
+```
+**Maak geen forms zonder (submit) button!**
+Zonder (submit) button kan je niet op Enter duwen
 
 ## Input types
 
@@ -20,6 +29,6 @@
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODc4MjkyMSwtNTg4MDg2MCwtMjA4OD
+eyJoaXN0b3J5IjpbLTU1MzQyMjM1NiwtNTg4MDg2MCwtMjA4OD
 c0NjYxMl19
 -->
