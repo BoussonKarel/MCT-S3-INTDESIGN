@@ -142,9 +142,12 @@ Ideaal voor components.
 ```
 
 ## Naming system
+### The two-level theming system
+Systeem om global variables te gebruiken in local variables
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OT
-I5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcx
-MTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMTgwNjc1NDAsLTEwOTM2MjcwODQsLT
+UxMTQ2MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMx
+Mzg2LC0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNz
+MwOTk4MTE2XX0=
 -->
