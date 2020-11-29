@@ -69,7 +69,7 @@ color: var(--my-cool-color);
 --my-cool-color: #BADA55;
 }
 ```
-**CSS Variables can be made conditional **
+**CSS Variables can be made conditional with @media and other conditional rules**
 ```css
 @media screen and (min-width: 768px) {
 	:root {
@@ -77,8 +77,25 @@ color: var(--my-cool-color);
 	}
 }
 ```
-**Dark themes**
-@media (prefers-color-schema: dark)
+**Ideal for dark themes**
+```css
+:root {
+	--color: white;
+	--background-color: black
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color: black;
+		--background-color: white
+	}
+}
+
+.html {
+	background-color: var(—background-color);
+	color: var(--color);
+}
+```
 
 ## Hoisting
 **Accessing a Variable First and Declaring Later**
@@ -97,7 +114,7 @@ body{
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDcwNTI5MCwtNTExNDYyNjYyLDc5Mj
+eyJoaXN0b3J5IjpbMTE5NTExNzEzMiwtNTExNDYyNjYyLDc5Mj
 kxMzEyNCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzEx
 MzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
