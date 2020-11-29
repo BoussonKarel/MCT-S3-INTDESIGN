@@ -145,7 +145,12 @@ Eigenschappen van de input
   - **Autofocus:** focust automatisch op het input type
 
 ## Labels
-- Gekoppeld aan een 
+- Gekoppeld aan een input
+- Usability improvement: toggles the input
+- **Elke input moet een label hebben!**
+- **Niet vervangen door een placeholder!**
+  - In een lang ingevuld formulier weet je op en duur niet meer wat je waar moet invullen
+  - Alternatief: floating label
 
 ## Button
 
@@ -154,8 +159,8 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU4MzUyLDEwMzU4Mjc1ODIsMTE1ND
-AwNDAyNSwtODcxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0
-NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLT
-U4ODA4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTQxNDUxMTc1OCwxMDM1ODI3NTgyLDExNT
+QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
+NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
+01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
