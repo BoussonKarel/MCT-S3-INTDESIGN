@@ -118,12 +118,14 @@ Kan je overal hergebruiken **en** overschrijven.
  - ...
 
 ### Local scoped variables
+Local scoped variables worden gedeclareerd binnen een specifieke selector.
 
+Ze hebben access tot glob
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MjA4MjgwLC01MTE0NjI2NjIsNzkyOT
-EzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEz
-Myw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTg0NTI0NjU5NSwtNTExNDYyNjYyLDc5Mj
+kxMzEyNCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzEx
+MzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
