@@ -78,9 +78,18 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 - Toegangscontrole serverroom
 - Hardware aanpassingen of diefstal
   - Asset management softare
- 
+- Toegang tot het netwerk
+- Introductie van vreemde software
+- Opstarten vanaf andere media
+
+## Privilege escalation
+- Zichzelf een ander gebruikerniveau
+- Horizontale escalation
+  - d
+- Verticale escalation
+  - d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODg1NjU1NywtNjk5OTYyNjMxLDg5MD
+eyJoaXN0b3J5IjpbMjA2MDEyNDA4OCwtNjk5OTYyNjMxLDg5MD
 U3NjI4NywxMjk5NDIxNDgyLC0zNTU2NjE0MDMsLTg0ODE2ODY2
 MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
 -->
