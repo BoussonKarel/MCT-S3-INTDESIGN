@@ -204,16 +204,17 @@ Deze volgorde in de CSS is belangrijk!
 - Element heeft een duidelijke focus ring of outline of nadere visuele cue
 - Te bedienen met keyboard: TAB of SHIFT TAB
 - Volgorde is de tab order
-- 
+- Interactieve HTML elementen (input, buttons, links) zijn impliciet focusbaar. Ze worden automatisch aan de tab order toegevoegd.
+- Paragrafen, divs, images... zij
 
 ## Focus
 
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM0MzIyMTksLTgxNjI3NTAzMiw0ND
-E2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0
-MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LD
-E3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTIzMjIzMDY5NCwtODE2Mjc1MDMyLDQ0MT
+Y4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQwMjUsLTg3MTc1NTQz
+NCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0NzgsMT
+cwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMDg4NzQ2
+NjEyXX0=
 -->
