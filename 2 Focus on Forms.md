@@ -213,11 +213,16 @@ Deze volgorde in de CSS is belangrijk!
 - Voor de data wordt doorgestuurd naar de server
 - Instant response
 - HTML5 validation
-  - Required, valid & invalid ps
+  - Required, valid & invalid pseudo classes om instant te tonen of het juist is of niet
+- **+ Server side validation**
+  - Voordat het opgeslagen wordt in de database
+  - Laatste
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTgyNDU0LC0yMDA5NzM2MzU0LC04MT
-YyNzUwMzIsNDQxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1NDAwNDAy
-NSwtODcxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0NiwtMT
-EyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4
-NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTI0OTEwNDU3MSwtMjAwOTczNjM1NCwtOD
+E2Mjc1MDMyLDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQw
+MjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLT
+ExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgw
+ODYwLC0yMDg4NzQ2NjEyXX0=
 -->
