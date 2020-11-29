@@ -79,7 +79,12 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 
 ![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
 
-###
+### Textarea
+```html
+<textarea></textarea>
+```
+- Geen input type
+- Apart element
 ## Attributes
 
 ## Labels
@@ -91,7 +96,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMxNzIzMjgsLTExMTg2NzQ5NDYsLT
-ExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgw
-ODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMT
+IyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2
+MCwtMjA4ODc0NjYxMl19
 -->
