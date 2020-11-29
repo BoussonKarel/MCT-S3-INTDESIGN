@@ -47,10 +47,14 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 
 ### Time-achtigen
 **checkbox**
- - toont een native date picker
+ - Meerdere keuzes mogelijk uit een aantal keuzes
+ - Of kan alleen bestaan
 
-**radio(button)**
-toont een variant van de native date 
+**checkbox**
+ - Slechts 1 keuze mogelijk uit een aantal keuzes
+ - Kan niet alleen bestaan, altijd in een group
+ - Gekoppeld aan elkaar door het name attribuut
+ - Niet voor enkele binaire keuzes
 
 ## Checkbox or toggle
 
@@ -65,6 +69,6 @@ toont een variant van de native date
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1Mzk1ODQ5LC03MjA5NjczOTgsLTU4OD
+eyJoaXN0b3J5IjpbNzc3MTc2NzEwLC03MjA5NjczOTgsLTU4OD
 A4NjAsLTIwODg3NDY2MTJdfQ==
 -->
