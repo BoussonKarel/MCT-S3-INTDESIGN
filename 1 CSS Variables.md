@@ -109,10 +109,18 @@ body{
 
 :root is hetzelfde als html, maar specifieker
 
+Kan je overal hergebruiken **en** overschrijven.
+
+ - colors
+ - whitespace
+ - border-radius
+ - transitions
+ - ...
+
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODM5MTA1LC01MTE0NjI2NjIsNzkyOT
+eyJoaXN0b3J5IjpbMjUxMTIxNDUyLC01MTE0NjI2NjIsNzkyOT
 EzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEz
 Myw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
 -->
