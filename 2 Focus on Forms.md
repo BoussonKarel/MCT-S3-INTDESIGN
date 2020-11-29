@@ -15,12 +15,14 @@
 Zonder (submit) button kan je niet op Enter duwen
 
 ## Input types
-Dit zijn de belangrijkste types die je moet kennen:
- - Text-achtigen
- - Time-achtigen
- - Option-achtigen
- - Textarea Select Range
-   Hors catégorie
+Belangrijkste, te kennen types:
+- Text-achtigen
+- Time-achtigen
+- Option-achtigen
+- Textarea
+- Select
+- Range
+- Hors catégorie
 
 ## Checkbox or toggle
 
@@ -35,6 +37,6 @@ Dit zijn de belangrijkste types die je moet kennen:
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk3MDcxNDUsLTU4ODA4NjAsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTcyMDk2NzM5OCwtNTg4MDg2MCwtMjA4OD
+c0NjYxMl19
 -->
