@@ -218,9 +218,12 @@ Deze volgorde in de CSS is belangrijk!
   - Voordat het opgeslagen wordt in de database
   - Laatste
 
-- 
+- Voorkom dat gebruikers fouten maken
+- Als ze dan toch fouten maken en kunnen submitten
+  - Verzorg duidelijke foutboodschappen
+  - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTEwNDU3MSwtMjAwOTczNjM1NCwtOD
+eyJoaXN0b3J5IjpbLTQyNDY5MDU4NywtMjAwOTczNjM1NCwtOD
 E2Mjc1MDMyLDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQw
 MjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLT
 ExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgw
