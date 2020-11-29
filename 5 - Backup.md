@@ -12,12 +12,13 @@
 RAID is GEEN back-up!
 
 ### LTO Tapes
-### LTO Drive
+**LTO Drive**
 Duurste onderdeel
 TAPE ROBOT ~ € 15.000
 TAPE DRIVE ~ € 4.000
 
+### Eigenschappe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ4NTk4NzMsLTkxMDgzMjE3Nyw3Mz
-UxNzI3ODUsLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
+eyJoaXN0b3J5IjpbLTEzMDAyMTQyMywtOTEwODMyMTc3LDczNT
+E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
 -->
