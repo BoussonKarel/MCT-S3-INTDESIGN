@@ -58,15 +58,19 @@ Vaak gaan ze proberen **spear phishing** te doen: fake login, keylogger...
 - Digipass
 - Google Authenticator
 
-Grotere investering
-
 Gedeeld geheim, gekend bij zowel server als authenticator.
 Op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegenereerd.
 
+**Grotere investering**
 
-### Wachtwoorden
+### Beveiligen op zijn-basis
+- Iris scanner
+- Vingerafdruk
+- Stem
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTQyMTQ4MiwtMzU1NjYxNDAzLC04ND
-gxNjg2NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbODkwNTc2Mjg3LDEyOTk0MjE0ODIsLTM1NT
+Y2MTQwMywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMTk2Mzk2NzA2
+Nl19
 -->
