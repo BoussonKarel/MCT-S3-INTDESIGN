@@ -186,18 +186,18 @@ De hoofdreden om global variables te hebben is consistentie.
 	padding: var(--c-alert-padding);
 }
 
-/* --block--state--propertyCamelCase */
+/* --block-state-propertyCamelCase */
 .c-alert--primary {
 	background-color: var(--c-alert-primary-backgroundColor);
 }
 
-/* --block__element--propertyCamelCase */
+/* --block__element-propertyCamelCase */
 .c-alert__title {
 	font-size: var(--c-alert__title-fontSize);
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzM5NjE3Niw0NDc3OTg5MzQsLTEwMT
+eyJoaXN0b3J5IjpbMTUyNDEyMDAzOSw0NDc3OTg5MzQsLTEwMT
 gwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMx
 MjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLD
 k3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
