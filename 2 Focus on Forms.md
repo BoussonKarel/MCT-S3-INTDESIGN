@@ -70,6 +70,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Afzonderlijke features of settings
  - Enkele aan/af beslissing
 
+![enter image description here](https://i.imgur.com/1I29nDy.png)
 ## Attributes
 
 ## Labels
@@ -81,6 +82,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDEyMTM0MCwxNzAwMjYwMzMzLC03Mj
-A5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNz
+IwOTY3Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
