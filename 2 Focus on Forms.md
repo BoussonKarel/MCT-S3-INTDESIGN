@@ -57,6 +57,19 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Niet voor enkele binaire keuzes
 
 ## Checkbox or toggle
+**Checkbox**
+ - Checked of niet
+ - Heeft nog confirmatie nodig
+ - Meerdere opties die bij elkaar horen
+ - Checken van sub options (intermediate state)
+ - Enkele ja/nee optie
+
+**Toggle switch = veredeld**
+ - Checked of niet
+ - Heeft nog confirmatie nodig
+ - Meerdere opties die bij elkaar horen
+ - Checken van sub options (intermediate state)
+ - Enkele ja/nee optie
 
 ## Attributes
 
@@ -69,6 +82,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01OD
-gwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk3NzgzNzE2LDE3MDAyNjAzMzMsLTcyMD
+k2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
 -->
