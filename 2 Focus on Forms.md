@@ -199,7 +199,7 @@ Deze volgorde in de CSS is belangrijk!
 - Mobiele toestellen: als een gebruiker een element "induwt"
 - Extra feedback
 
-#### :active
+#### :focus
 - Gebruiker klikt met de muis
 - Mobiele toestellen: als een gebruiker een element "induwt"
 - Extra feedback
@@ -209,7 +209,7 @@ Deze volgorde in de CSS is belangrijk!
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODY2NDY0Myw0NDE2ODM5ODIsMTAzNT
+eyJoaXN0b3J5IjpbLTgzOTQ5MTc1MSw0NDE2ODM5ODIsMTAzNT
 gyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3
 LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLT
 cyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
