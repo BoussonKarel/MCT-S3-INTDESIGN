@@ -3,11 +3,11 @@
 - Concrete back-up policy
 - Disaster recovery plan
 
-## Backup-media
+## Back-up media
 - Tape?
 - Harddisk?
 - USB-stick?
-- Cloud-backup?
+- Cloud back-up?
 
 RAID is GEEN back-up!
 
@@ -17,7 +17,13 @@ Duurste onderdeel
 TAPE ROBOT ~ € 15.000
 TAPE DRIVE ~ € 4.000
 
-### Eigenschappen van een correcte back-up
+### Cloud back-up?
+- Aansprakelijkheid?
+- Beschikbaarheid?
+- Vertrouwelijkheid? Wetgeving?
+- Wel zeer eenvoudig en gemakkelijk!
+
+## Eigenschappen van een correcte back-up
 - Offline !?
 - Beveiligd tegen aanpassing (Integer)
 - Betrouwbaar
@@ -26,13 +32,13 @@ TAPE DRIVE ~ € 4.000
 
 ![3 copies on 2 formats with 1 offsite](https://i.imgur.com/5KTX8wo.png)
 
-### Cloud back-up?
-- Aansprakelijkheid?
-- Beschikbaarheid?
-- Vertrouwelijkheid? Wetgeving?
-- Wel zeer eenvoudig en gemakkelijk!
-
+## Back-up policy
+- Frequentie
+- Strategie
+- Type
+- Opslag
+  - Dc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjM2NzAxNSwtOTEwODMyMTc3LDczNT
-E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
+eyJoaXN0b3J5IjpbLTEwMzA0NDA1OTEsLTkxMDgzMjE3Nyw3Mz
+UxNzI3ODUsLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
 -->
