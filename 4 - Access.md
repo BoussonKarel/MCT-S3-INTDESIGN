@@ -1,11 +1,11 @@
 # 4 - Access
 ## Beveiligen van toegang
-**Beveiligingsbasis**
-- Weten
+**Drie beveiligingsbasissen (BELANGRIJK)**
+- **Weten**
 *bv Wachtwoord*
-- Hebben
+- **Hebben**
 *bv Autosleutel*
-- Zijn
+- **Zijn**
 *Wie dat je bent*
 
 ### Wachtwoorden
@@ -49,13 +49,19 @@ De beste wachtwoorden zijn **voldoende lang**
 Manier van aanvallen verschuift
 Ze gaan er niet meer vanuit dat het wachtwoord kraakbaar/vindbaar is.
 
-Malware zoals keyloggers kunnen het uitlezen.
+Vaak gaan ze proberen **spear phishing** te doen: fake login, keylogger...
 
-Vaak gaan ze proberen **spear phishing** te 
-### Wachtwoorden
+### Beveiligen op hebben-basis
+- Smartcards
+- Dongles
+- Transponder
+- Digipass
+- Google Authenticator
+
+
 ### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDczNDg4NiwtMzU1NjYxNDAzLC04ND
-gxNjg2NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbNjk1Mjc2MTM1LC0zNTU2NjE0MDMsLTg0OD
+E2ODY2MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
 -->
