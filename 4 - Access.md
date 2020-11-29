@@ -33,8 +33,12 @@ De beste wachtwoorden zijn **voldoende lang**
  - Wijzig je wachtwoorden regelmatig
  - Leen nooit een wachtwoord uit
 - Gebruik 2FA voor authenticatie
-- Mijd eventueel gebruik van een wachtwoordkluis
+- Mijd eventueel gebruik van een wachtwoordkluis (gebruik door de organisatie goedgekeurde software)
+- Noteer wachtwoorden NOOIT waar deze door derden kunnen worden achterhaald
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbLTg0ODE2ODY2MSwtODg5MTMyMTY0LDE5Nj
+M5NjcwNjZdfQ==
 -->
