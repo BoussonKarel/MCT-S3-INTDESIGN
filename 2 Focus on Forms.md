@@ -33,8 +33,8 @@ Zien er visueel ongeveer hetzelde uit.
 - **password:** vervangt letters door bolletjes
 - **email:** valideert de browser enkel als je een correct e-mailadres invult
 - **number:**
-- - aanvaardt enkel nummers
-- - heeft pijltjes om te vermeerderen of verminderen
+  - aanvaardt enkel nummers
+  - heeft pijltjes om te vermeerderen of verminderen
 - **tel:** aanvaardt ook enkel nummers
 
 ### Time-achtigen
@@ -115,12 +115,22 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 Eigenschappen van de input
 - type, value, id, name...
 
-**Minimum attributes**
+### Minimum attributes
 - **type:** definieert het type input
 - **name:**
-- - voor developers
-- - zorgt ervoor dat je weet wat je waar ingevuld hebt
-- - (en om 
+  - voor developers
+  - zorgt ervoor dat je weet wat je waar ingevuld hebt
+  - (en om radio buttons aan elkaar te koppelen)
+  - **altijd name voorzien**
+
+### Veelgebruikte attributes
+- **value:**
+  - Kan je gebruiken om ee
+- **placeholder:**
+  - voor developers
+  - zorgt ervoor dat je weet wat je waar ingevuld hebt
+  - (en om radio buttons aan elkaar te koppelen)
+  - **altijd name voorzien**
 
 ## Labels
 
@@ -131,7 +141,7 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NjQzOTAyLDExNTQwMDQwMjUsLTg3MT
+eyJoaXN0b3J5IjpbLTg1MTQ3NzgyLDExNTQwMDQwMjUsLTg3MT
 c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
 NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
 g4NzQ2NjEyXX0=
