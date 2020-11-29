@@ -145,9 +145,14 @@ Ideaal voor components.
 ### The two-level theming system
 Systeem om global variables te gebruiken in local variables
 
+**Global level**
+De hoofdreden om global variables te hebben is consistentie.
+
+ - Prefix --global
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgwNjc1NDAsLTEwOTM2MjcwODQsLT
-UxMTQ2MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMx
-Mzg2LC0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk1NzQzNzMwNSwtMTAxODA2NzU0MCwtMT
+A5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNCwxMjczODUy
+MDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LD
+E0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
