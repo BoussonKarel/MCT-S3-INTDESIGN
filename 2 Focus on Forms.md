@@ -133,6 +133,17 @@ Eigenschappen van de input
   - verdwijnt automatisch als je begint te typen
   - **Placeholder nooit gebruiken als alternatief voor een label!**
 
+### Lege attributes
+- Hebben geen value
+- Zijn waar of onwaar
+- CSS pseudo classes
+- Veel gebruikt
+  - **Checked:** radio options & checkboxes
+  - **Required:** browse
+  - **Disabled:** radio options & checkboxes
+  - **Readonly:** radio options & checkboxes
+  - **Autofocus:** radio options & checkboxes
+
 ## Labels
 
 ## Button
@@ -142,7 +153,7 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NzY2MzIwLDExNTQwMDQwMjUsLTg3MT
+eyJoaXN0b3J5IjpbNzQyNjI5NDk2LDExNTQwMDQwMjUsLTg3MT
 c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
 NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
 g4NzQ2NjEyXX0=
