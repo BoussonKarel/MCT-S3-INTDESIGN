@@ -83,15 +83,21 @@ Accessing a Variable First and Declaring Later
 
 Een variabele toewijzen zonder dat hij al bestaat en die later gaan declareren
 ```css
+body{
+	background: var(--bg-fill);
+}
 
-
+:root{
+	--bg-fill: green;
+}
+```
 
 ## Global vs local scope
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjM0NzU5MywxMjczODUyMDEzLC04OT
+eyJoaXN0b3J5IjpbMTM0NDU2MDY0MiwxMjczODUyMDEzLC04OT
 U4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0MzMzMDEw
 NSw3MzA5OTgxMTZdfQ==
 -->
