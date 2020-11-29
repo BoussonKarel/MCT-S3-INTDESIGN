@@ -57,19 +57,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Niet voor enkele binaire keuzes
 
 ## Checkbox or toggle
-**Checkbox**
- - Checked of niet
- - Heeft nog confirmatie nodig
- - Meerdere opties die bij elkaar horen
- - Checken van sub options (intermediate state)
- - Enkele ja/nee optie
-
-**Toggle switch = veredelde checkbox**
- - Aan of af zetten
- - Instant response zonder confirmatie
- - Afzonderlijke features of settings
- - Enkele aan/af beslissing
-
 |Checkbox|Toggle|
 |--|--|
 |Checked of niet|Aan of Uit|
@@ -79,6 +66,17 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 |Enkele ja/nee optie|Enkele aan/uit beslissig
 
 ![Intermediate state](https://i.imgur.com/1I29nDy.png)
+
+**Checkbox**
+- Contextual state
+- Heeft invloed op het huidige scherm
+- Opposing options
+
+**Toggle switch = veredelde checkbox**
+- System state
+- Invloed op de volledige app
+- Binary options
+
 ## Attributes
 
 ## Labels
@@ -90,7 +88,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA2NzI3MSwtMTEyMjkyMjQ3OCwxNz
-AwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMTg2NzQ5NDYsLTExMjI5MjI0NzgsMT
+cwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMDg4NzQ2
+NjEyXX0=
 -->
