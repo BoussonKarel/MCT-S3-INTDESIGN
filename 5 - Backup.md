@@ -52,7 +52,12 @@ Back-up moet zowel ACTUEEL zijn alsook voldoende teruggaan in de tijd.
 #### Towers of Hanoi
 Toren naar andere kant verplaatsen, maar je mag nooit een grotere schijf op een kleinere plaatsen.
 ![Towers of Hanoi](https://i.imgur.com/ylxnYjR.png)
+
+## Belangrijk
+- CIA
+- Moet orden getest
+- Moet effectief worden uitgevoerd (want met goede voornemens...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDIwMDI5NywtOTEwODMyMTc3LDczNT
-E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
+eyJoaXN0b3J5IjpbNTkyODY5ODcsLTkxMDgzMjE3Nyw3MzUxNz
+I3ODUsLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
 -->
