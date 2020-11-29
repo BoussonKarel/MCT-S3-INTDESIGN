@@ -90,11 +90,6 @@ color: var(--my-cool-color);
 		--background-color: white
 	}
 }
-
-.html {
-	background-color: var(—background-color);
-	color: var(--color);
-}
 ```
 
 ## Hoisting
@@ -110,11 +105,13 @@ body{
 ```
 
 ## Global vs local scope
+:root is a CSS pseudo-class selec
+
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTExNzEzMiwtNTExNDYyNjYyLDc5Mj
-kxMzEyNCwxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzEx
-MzMsOTcxMzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyODA5MTM3NDAsLTUxMTQ2MjY2Miw3OT
+I5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcx
+MTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
