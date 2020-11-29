@@ -139,10 +139,10 @@ Eigenschappen van de input
 - CSS pseudo classes
 - Veel gebruikt
   - **Checked:** radio options & checkboxes
-  - **Required:** browse
-  - **Disabled:** radio options & checkboxes
-  - **Readonly:** radio options & checkboxes
-  - **Autofocus:** radio options & checkboxes
+  - **Required:** browservalidatie
+  - **Disabled:** kan je niet aanpassen en wordt ook niet gesubmit
+  - **Readonly:** kan je niet aanpassen maar wordt wel gesubmit
+  - **Autofocus:** focust automatisch op het input type
 
 ## Labels
 
@@ -153,8 +153,8 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjI5NDk2LDExNTQwMDQwMjUsLTg3MT
-c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
-NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04Nz
+E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
+NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
+A4ODc0NjYxMl19
 -->
