@@ -37,7 +37,8 @@ De beste wachtwoorden zijn **voldoende lang**
 - Noteer wachtwoorden NOOIT waar deze door derden kunnen worden achterhaald
 
 ## Beveiligen van toegang
-### Wachtwoorden
+### Beveiligen op weten-basis
+#### Wachtwoorden
 - Hoofdletters, kleine letters en cijfers
 - Speciale tekens
 - Minimale lengte
@@ -58,10 +59,12 @@ Vaak gaan ze proberen **spear phishing** te doen: fake login, keylogger...
 - Digipass
 - Google Authenticator
 
+**Grotere investering**
+
 
 ### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1Mjc2MTM1LC0zNTU2NjE0MDMsLTg0OD
-E2ODY2MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbMTQwMTc2NjEwOCwtMzU1NjYxNDAzLC04ND
+gxNjg2NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
 -->
