@@ -105,13 +105,14 @@ body{
 ```
 
 ## Global vs local scope
-:root is a CSS pseudo-class selec
+:root is a CSS pseudo-class selector used to select the element that represents the root of the document
 
+:root is hetzelfde als html, maar specifieker
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA5MTM3NDAsLTUxMTQ2MjY2Miw3OT
-I5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcx
-MTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA4ODM5MTA1LC01MTE0NjI2NjIsNzkyOT
+EzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEz
+Myw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
 -->
