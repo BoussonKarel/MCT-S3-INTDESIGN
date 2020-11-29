@@ -28,7 +28,7 @@ p {
 }
 ```
 
-**Kan bestaan uit andere variables**
+**Kan meerdere variables bevatten**
 ```css
 :root {
 	--border-width: 1px;
@@ -95,7 +95,7 @@ body{
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyOTEzMTI0LDEyNzM4NTIwMTMsLTg5NT
-gzMTM4NiwtMTc5MTg3MTEzMyw5NzEzMDE4MzUsMTQzMzMwMTA1
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTg1OTU0MTk2Myw3OTI5MTMxMjQsMTI3Mz
+g1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLDk3MTMwMTgz
+NSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
