@@ -45,11 +45,17 @@ De beste wachtwoorden zijn **voldoende lang**
 - Beperkte geldigheidsduur
 - Niet opschrijven
 
-**Waarom zijn wachtwoorden nutteloos?*
+**Waarom zijn wachtwoorden nutteloos?**
+Manier van aanvallen verschuift
+Ze gaan er niet meer vanuit dat het wachtwoord kraakbaar/vindbaar is.
+
+Malware zoals keyloggers kunnen het uitlezen.
+
+Vaak gaan ze proberen **spear phishing** te 
 ### Wachtwoorden
 ### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTY2MTQwMywtODQ4MTY4NjYxLC04OD
-kxMzIxNjQsMTk2Mzk2NzA2Nl19
+eyJoaXN0b3J5IjpbLTUzMDczNDg4NiwtMzU1NjYxNDAzLC04ND
+gxNjg2NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
 -->
