@@ -70,10 +70,10 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Afzonderlijke features of settings
  - Enkele aan/af beslissing
 
-|  |Checkbox|Toggle|
+||Checkbox|Toggle|
 |--|--|--|
-| 
-
+||Checked of niet|Aan of Uit|
+||
 
 ![enter image description here](https://i.imgur.com/1I29nDy.png)
 ## Attributes
@@ -87,7 +87,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQwNzc0NjcsLTExMjI5MjI0NzgsMT
-cwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMjA1MDU3MDA4OCwtMTEyMjkyMjQ3OCwxNz
+AwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2
+MTJdfQ==
 -->
