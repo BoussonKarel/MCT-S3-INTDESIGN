@@ -154,10 +154,23 @@ De hoofdreden om global variables te hebben is consistentie.
 
  - Concept: space, main-title, text...
  - State: hover, expanded...
- - 
-
+ - Modifier: sm, lg...
+ - propertyCamelCase: backgroundColor, fontSize...
+ 
+```css
+:root {
+	/* --global-concept-size */
+	--global-spacer-sm: .5rem;
+	/* --global--concept--PropertyCamelCase */
+	--global-main-title--FontSize: 2rem;
+	--global-secondary-title--FontSize: 1.8rem;
+	--global--body--FontSize: 1rem;
+	/* --global--state--PropertyCamelCase */
+	--global--hover--BackgroundColor: #ccc;
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0MDYxODk2LC0xMDE4MDY3NTQwLC0xMD
+eyJoaXN0b3J5IjpbMjQ0Njk4NTc2LC0xMDE4MDY3NTQwLC0xMD
 kzNjI3MDg0LC01MTE0NjI2NjIsNzkyOTEzMTI0LDEyNzM4NTIw
 MTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEzMyw5NzEzMDE4MzUsMT
 QzMzMwMTA1LDczMDk5ODExNl19
