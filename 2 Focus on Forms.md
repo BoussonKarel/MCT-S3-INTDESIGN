@@ -56,7 +56,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Gekoppeld aan elkaar door het name attribuut
  - Niet voor enkele binaire keuzes
 
-## Checkbox or toggle
+### Checkbox or toggle
 |Checkbox|Toggle|
 |--|--|
 |Checked of niet|Aan of Uit|
@@ -79,7 +79,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 
 ![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
 
-
+###
 ## Attributes
 
 ## Labels
@@ -91,7 +91,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwMjI5NiwtMTExODY3NDk0NiwtMT
-EyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4
-NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDMxNzIzMjgsLTExMTg2NzQ5NDYsLT
+ExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgw
+ODYwLC0yMDg4NzQ2NjEyXX0=
 -->
