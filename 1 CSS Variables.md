@@ -79,9 +79,7 @@ color: var(--my-cool-color);
 @media (prefers-color-schema: dark)
 
 ## Hoisting
-Accessing a Variable First and Declaring Later
-
-Een variabele toewijzen zonder dat hij al bestaat en die later gaan declareren
+**Accessing a Variable First and Declaring Later**
 ```css
 body{
 	background: var(--bg-fill);
@@ -97,7 +95,7 @@ body{
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDU2MDY0MiwxMjczODUyMDEzLC04OT
-U4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0MzMzMDEw
-NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzkyOTEzMTI0LDEyNzM4NTIwMTMsLTg5NT
+gzMTM4NiwtMTc5MTg3MTEzMyw5NzEzMDE4MzUsMTQzMzMwMTA1
+LDczMDk5ODExNl19
 -->
