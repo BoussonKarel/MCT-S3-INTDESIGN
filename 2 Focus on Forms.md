@@ -192,14 +192,17 @@ Deze volgorde in de CSS is belangrijk!
 - CSS declarations worden geactiveerd wanneer een gebruiker de muis over een element beweegt
 - CSS declarations worden geactiveerd op mobiele toestellen als een gebruiker een element "induwt" en "loslaat" en er geen specifieke focus of active styles zijn gedeclareerd of als :hover na :focus of :active komt
 
+#### :active
+- CSS declarations worden geactiveerd wanneer een gebruiker de muis over een element beweegt
+- CSS declarations worden geactiveerd op mobiele toestellen als een gebruiker een element "induwt" en "loslaat" en er geen specifieke focus of active styles zijn gedeclareerd of als :hover na :focus of :active komt
 
 ## Focus
 
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzM3MzIyOSwxMDM1ODI3NTgyLDExNT
-QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
-NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
-01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE5MTU5MTg0MTAsMTAzNTgyNzU4MiwxMT
+U0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0
+OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OC
+wtNTg4MDg2MCwtMjA4ODc0NjYxMl19
 -->
