@@ -145,6 +145,7 @@ Eigenschappen van de input
   - **Autofocus:** focust automatisch op het input type
 
 ## Labels
+- Gekoppeld aan een 
 
 ## Button
 
@@ -153,8 +154,8 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04Nz
-E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
-NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2NTU4MzUyLDEwMzU4Mjc1ODIsMTE1ND
+AwNDAyNSwtODcxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0
+NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLT
+U4ODA4NjAsLTIwODg3NDY2MTJdfQ==
 -->
