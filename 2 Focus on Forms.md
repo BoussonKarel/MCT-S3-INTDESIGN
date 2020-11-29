@@ -202,6 +202,8 @@ Deze volgorde in de CSS is belangrijk!
 #### :focus
 - Toont duidelijk welk element op de pagina keyboard events kan ontvangen
 - Element heeft een duidelijke focus ring of outline of nadere visuele cue
+- Te bedienen met keyboard: TAB of SHIFT TAB
+- Volgorde is de tab order
 - 
 
 ## Focus
@@ -209,8 +211,9 @@ Deze volgorde in de CSS is belangrijk!
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjI3NTAzMiw0NDE2ODM5ODIsMTAzNT
-gyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3
-LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLT
-cyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIxMTM0MzIyMTksLTgxNjI3NTAzMiw0ND
+E2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0
+MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LD
+E3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0
+NjYxMl19
 -->
