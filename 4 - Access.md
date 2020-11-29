@@ -25,8 +25,12 @@ De beste wachtwoorden zijn **voldoende lang**
  - Vaak gebruikte wachtwoorden zijn gekend
  - Enorme lijsten met wachtwoorden zijn beschikbaar
  - Vak succesvolle aanval op anders toch complexe wachtwoorden
- - 
+ 
+ **Tips**
+ - Let erop dat het wachtwoord voldoende sterk is
+ - Gebruik geen logisch patroon
+ - Mijd hergebruik
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNDQwNzksMTk2Mzk2NzA2Nl19
+eyJoaXN0b3J5IjpbLTY0NTE2MTYzLDE5NjM5NjcwNjZdfQ==
 -->
