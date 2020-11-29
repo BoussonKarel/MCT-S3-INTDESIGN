@@ -189,8 +189,8 @@ label text
 Deze volgorde in de CSS is belangrijk!
 
 #### :hover
-- CSS declarations worden geactiveerd wanneer een gebruiker de muis over een element beweegt
-- CSS declarations worden geactiveerd op mobiele toestellen als een gebruiker een element "induwt" en "loslaat" en er geen specifieke focus of active styles zijn gedeclareerd of als :hover na :focus of :active komt
+- Gebruiker beweegt over een element
+- 
 
 #### :active
 - Gebruiker beweegt over een element
@@ -202,8 +202,8 @@ Deze volgorde in de CSS is belangrijk!
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1ND
-AwNDAyNSwtODcxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0
-NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLT
-U4ODA4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTMwNTUwMzI4Miw0NDE2ODM5ODIsMTAzNT
+gyNzU4MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3
+LC0xMTE4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLT
+cyMDk2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
 -->
