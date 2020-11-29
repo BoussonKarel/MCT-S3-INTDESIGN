@@ -64,7 +64,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Checken van sub options (intermediate state)
  - Enkele ja/nee optie
 
-**Toggle switch = veredeld**
+**Toggle switch = veredelde checkbox**
  - Checked of niet
  - Heeft nog confirmatie nodig
  - Meerdere opties die bij elkaar horen
@@ -82,6 +82,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzgzNzE2LDE3MDAyNjAzMzMsLTcyMD
-k2NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjU4NDg0NDYsMTcwMDI2MDMzMywtNzIwOT
+Y3Mzk4LC01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
