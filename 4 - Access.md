@@ -72,8 +72,11 @@ Op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegene
 De combinatie van meerdere authenticatiemethodes verhoogt de veiligheid
 
 Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
+
+## Fysieke toegang
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTk2MjYzMSw4OTA1NzYyODcsMTI5OT
-QyMTQ4MiwtMzU1NjYxNDAzLC04NDgxNjg2NjEsLTg4OTEzMjE2
-NCwxOTYzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbLTE5ODg5MTM4OTEsLTY5OTk2MjYzMSw4OT
+A1NzYyODcsMTI5OTQyMTQ4MiwtMzU1NjYxNDAzLC04NDgxNjg2
+NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
 -->
