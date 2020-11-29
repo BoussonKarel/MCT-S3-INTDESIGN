@@ -33,8 +33,9 @@ Zien er visueel ongeveer hetzelde uit.
 - **password:** vervangt letters door bolletjes
 - **email:** valideert de browser enkel als je een correct e-mailadres invult
 - **number:**
-- -aanvaardt enke
-- **tel:** basis input type voor HTML5 input types
+- - aanvaardt enkel nummers
+- - heeft pijltjes om te vermeerderen of verminderen
+- **tel:** aanvaardt ook enkel nummers
 
 ## Checkbox or toggle
 
@@ -49,6 +50,6 @@ Zien er visueel ongeveer hetzelde uit.
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Njk1NTk0MCwtNzIwOTY3Mzk4LC01OD
-gwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE0MTI0NzQwOTcsLTcyMDk2NzM5OCwtNT
+g4MDg2MCwtMjA4ODc0NjYxMl19
 -->
