@@ -115,6 +115,12 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 Eigenschappen van de input
 - type, value, id, name...
 
+**Minimum attributes**
+- **type:** definieert het type input
+- **name:**
+- - voor developers
+- - zorgt ervoor dat je weet wat je waar ingevuld hebt
+- - (en om 
 
 ## Labels
 
@@ -125,8 +131,8 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzI2MjkzNSwxMTU0MDA0MDI1LC04Nz
-E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
-NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzk2NjQzOTAyLDExNTQwMDQwMjUsLTg3MT
+c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
+NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
+g4NzQ2NjEyXX0=
 -->
