@@ -36,9 +36,12 @@ De beste wachtwoorden zijn **voldoende lang**
 - Mijd eventueel gebruik van een wachtwoordkluis (gebruik door de organisatie goedgekeurde software)
 - Noteer wachtwoorden NOOIT waar deze door derden kunnen worden achterhaald
 
-
+## Beveiligen van toegang
+### Wachtwoorden
+### Wachtwoorden
+### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODE2ODY2MSwtODg5MTMyMTY0LDE5Nj
-M5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjE5ODM5MTUsLTg0ODE2ODY2MSwtOD
+g5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
 -->
