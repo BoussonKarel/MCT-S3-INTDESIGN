@@ -38,10 +38,18 @@ De beste wachtwoorden zijn **voldoende lang**
 
 ## Beveiligen van toegang
 ### Wachtwoorden
+- Hoofdletters, kleine letters en cijfers
+- Speciale tekens
+- Minimale lengte
+- Geen betekenisvolle begrippen
+- Beperkte geldigheidsduur
+- Niet opschrijven
+
+**Waarom zijn wachtwoorden nutteloos?*
 ### Wachtwoorden
 ### Wachtwoorden
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE5ODM5MTUsLTg0ODE2ODY2MSwtOD
-g5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbLTM1NTY2MTQwMywtODQ4MTY4NjYxLC04OD
+kxMzIxNjQsMTk2Mzk2NzA2Nl19
 -->
