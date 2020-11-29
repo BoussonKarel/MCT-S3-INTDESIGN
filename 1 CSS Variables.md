@@ -29,6 +29,8 @@ p {
 ```
 
 **Kan meerdere variables bevatten**
+
+**en kan shorthand values bevatten**
 ```css
 :root {
 	--border-width: 1px;
@@ -95,7 +97,7 @@ body{
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTU0MTk2Myw3OTI5MTMxMjQsMTI3Mz
+eyJoaXN0b3J5IjpbLTUxMTQ2MjY2Miw3OTI5MTMxMjQsMTI3Mz
 g1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLDk3MTMwMTgz
 NSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
 -->
