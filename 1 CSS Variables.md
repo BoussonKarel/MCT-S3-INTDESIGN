@@ -79,13 +79,19 @@ color: var(--my-cool-color);
 @media (prefers-color-schema: dark)
 
 ## Hoisting
+Accessing a Variable First and Declaring Later
+
+Een variabele toewijzen zonder dat hij al bestaat en die later gaan declareren
+```css
+
+
 
 ## Global vs local scope
 
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNz
-kxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTk5NjM0NzU5MywxMjczODUyMDEzLC04OT
+U4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0MzMzMDEw
+NSw3MzA5OTgxMTZdfQ==
 -->
