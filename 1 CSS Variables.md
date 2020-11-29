@@ -105,22 +105,25 @@ body{
 ```
 
 ## Global vs local scope
-:root is a CSS pseudo-class selector used to select the element that represents the root of the document
+### Global scoped variables
+**:root** is a CSS pseudo-class selector used to select the element that represents the root of the document
 
 :root is hetzelfde als html, maar specifieker
 
 Kan je overal hergebruiken **en** overschrijven.
-
  - colors
  - whitespace
  - border-radius
  - transitions
  - ...
 
+### Local scoped variables
+
+
 ## Naming system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMTIxNDUyLC01MTE0NjI2NjIsNzkyOT
+eyJoaXN0b3J5IjpbNjY2MjA4MjgwLC01MTE0NjI2NjIsNzkyOT
 EzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMTc5MTg3MTEz
 Myw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODExNl19
 -->
