@@ -26,7 +26,13 @@ TAPE DRIVE ~ € 4.000
 
 ![3 copies on 2 formats with 1 offsite](https://i.imgur.com/5KTX8wo.png)
 
+### Cloud back-up?
+- Aansprakelijkheid?
+- Beschikbaarheid?
+- Vertrouwelijkheid? Wetgeving?
+- Wel zeer eenvoudig en gemakkelijk!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTE5MzQ0MiwtOTEwODMyMTc3LDczNT
+eyJoaXN0b3J5IjpbMTg1MjM2NzAxNSwtOTEwODMyMTc3LDczNT
 E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
 -->
