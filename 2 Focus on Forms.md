@@ -112,6 +112,9 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - **color:** toont vreemde color picker
 
 ## Attributes
+Eigenschappen van de input
+- type, value, id, name...
+
 
 ## Labels
 
@@ -122,8 +125,8 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDAwNDAyNSwtODcxNzU1NDM0LDU3Nj
-g5OTcwNywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYw
-MzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTUxNzI2MjkzNSwxMTU0MDA0MDI1LC04Nz
+E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
+NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
+A4ODc0NjYxMl19
 -->
