@@ -74,9 +74,13 @@ De combinatie van meerdere authenticatiemethodes verhoogt de veiligheid
 Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 
 ## Fysieke toegang
-- 
+- Onvergrendelde schermen
+- Toegangscontrole serverroom
+- Hardware aanpassingen of diefstal
+  - Asset management softare
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODg5MTM4OTEsLTY5OTk2MjYzMSw4OT
-A1NzYyODcsMTI5OTQyMTQ4MiwtMzU1NjYxNDAzLC04NDgxNjg2
-NjEsLTg4OTEzMjE2NCwxOTYzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbMTAyODg1NjU1NywtNjk5OTYyNjMxLDg5MD
+U3NjI4NywxMjk5NDIxNDgyLC0zNTU2NjE0MDMsLTg0ODE2ODY2
+MSwtODg5MTMyMTY0LDE5NjM5NjcwNjZdfQ==
 -->
