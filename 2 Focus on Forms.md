@@ -121,16 +121,17 @@ Eigenschappen van de input
   - voor developers
   - zorgt ervoor dat je weet wat je waar ingevuld hebt
   - (en om radio buttons aan elkaar te koppelen)
-  - **altijd name voorzien**
+  - **Altijd een name voorzien!**
 
 ### Veelgebruikte attributes
 - **value:**
-  - Kan je gebruiken om ee
+  - Kan je gebruiken om een default value in te geven
+  - Indien leeg wordt dit wat je hebt ingevuld
 - **placeholder:**
-  - voor developers
-  - zorgt ervoor dat je weet wat je waar ingevuld hebt
-  - (en om radio buttons aan elkaar te koppelen)
-  - **altijd name voorzien**
+  - hint
+  - voorbeeld van wat de value moet zijn
+  - verdwijnt automatisch als je begint te typen
+  - **Placeholder nooit gebruiken als alternatief voor een label!**
 
 ## Labels
 
@@ -141,7 +142,7 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTQ3NzgyLDExNTQwMDQwMjUsLTg3MT
+eyJoaXN0b3J5IjpbNzM0NzY2MzIwLDExNTQwMDQwMjUsLTg3MT
 c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
 NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
 g4NzQ2NjEyXX0=
