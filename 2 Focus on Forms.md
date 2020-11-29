@@ -76,8 +76,9 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 |Confirmatie nodig|Instant response zonder confirmatie|
 |Opties die bij elkaar horen|Afzonderlijke features of settings|
 |Checken van sub-options (intermediate state)|
+|Enkele ja/nee optie|Enkele aan/uit beslissig
 
-![enter image description here](https://i.imgur.com/1I29nDy.png)
+![Intermediate state](https://i.imgur.com/1I29nDy.png)
 ## Attributes
 
 ## Labels
@@ -89,7 +90,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDIwMDI1NSwtMTEyMjkyMjQ3OCwxNz
+eyJoaXN0b3J5IjpbLTEzMDA2NzI3MSwtMTEyMjkyMjQ3OCwxNz
 AwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2
 MTJdfQ==
 -->
