@@ -44,8 +44,11 @@ TAPE DRIVE ~ € 4.000
 
 ### Grootvader-vader-zoon systeem
 Back-up rotatie
-Archiveri
+Archivering
+
+Back-up moet zowel ACTUEEL zijn alsook voldoende teruggaan in de tijd. 
+![Grandfather-father-son backups](https://i.imgur.com/F18PkwQ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjQ1Mzc1LC05MTA4MzIxNzcsNzM1MT
-cyNzg1LC0xMTQ5OTYxODQwLC0yOTE3MDA1MDhdfQ==
+eyJoaXN0b3J5IjpbLTE3OTYwMDc0NywtOTEwODMyMTc3LDczNT
+E3Mjc4NSwtMTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
 -->
