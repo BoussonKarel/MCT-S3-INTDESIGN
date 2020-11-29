@@ -152,6 +152,18 @@ Eigenschappen van de input
   - In een lang ingevuld formulier weet je op en duur niet meer wat je waar moet invullen
   - Alternatief: floating label
 
+```html
+<!-- Manier 1: apart aanspreekbaar-->
+<label for=“input_id”>label text</label>
+<input type=“text” name=“whatever” id=“input_id”>
+
+<!-- Manier 2:  -->
+<label>
+label text
+<input type=“text” name=“whatever” id=“input_id”>
+</label>
+```
+
 ## Button
 
 ## Focus
@@ -159,7 +171,7 @@ Eigenschappen van de input
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDUxMTc1OCwxMDM1ODI3NTgyLDExNT
+eyJoaXN0b3J5IjpbMTQ1NDk5Mjk1MSwxMDM1ODI3NTgyLDExNT
 QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
 NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
 01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
