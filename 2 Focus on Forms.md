@@ -45,12 +45,12 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - **number:** aanvaardt enkel nummers
 - **tel:** handig voor mobile
 
-### Time-achtigen
+### Option-achtigen
 **checkbox**
  - Meerdere keuzes mogelijk uit een aantal keuzes
  - Of kan alleen bestaan
 
-**checkbox**
+**radio (button)**
  - Slechts 1 keuze mogelijk uit een aantal keuzes
  - Kan niet alleen bestaan, altijd in een group
  - Gekoppeld aan elkaar door het name attribuut
@@ -69,6 +69,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ## Validation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MTc2NzEwLC03MjA5NjczOTgsLTU4OD
-A4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01OD
+gwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
