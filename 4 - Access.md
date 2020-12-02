@@ -62,6 +62,7 @@ Gedeeld geheim, gekend bij zowel server als authenticator.
 Op basis van tijd, datum en dat geheim wordt telkens een nieuw wachtwoord gegenereerd.
 
 **Grotere investering**
+![Authenticator](https://i.imgur.com/X2N4AnL.png)
 
 ### Beveiligen op zijn-basis
 - Iris scanner
@@ -89,7 +90,8 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 - Vertical escalation
   - Meer machtigingen verwerven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzM2MDQzMCwyMDYwMTI0MDg4LC02OT
-k5NjI2MzEsODkwNTc2Mjg3LDEyOTk0MjE0ODIsLTM1NTY2MTQw
-MywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMTk2Mzk2NzA2Nl19
+eyJoaXN0b3J5IjpbMjA3NTEyOTE5MSwxOTYzMzYwNDMwLDIwNj
+AxMjQwODgsLTY5OTk2MjYzMSw4OTA1NzYyODcsMTI5OTQyMTQ4
+MiwtMzU1NjYxNDAzLC04NDgxNjg2NjEsLTg4OTEzMjE2NCwxOT
+YzOTY3MDY2XX0=
 -->
