@@ -54,11 +54,11 @@ Toren naar andere kant verplaatsen, maar je mag nooit een grotere schijf op een 
 ![Towers of Hanoi](https://i.imgur.com/ylxnYjR.png)
 
 ## Belangrijk
-- CIA
+- CIA over de hele lijn
 - Moet orden getest
 - Moet effectief worden uitgevoerd (want met goede voornemens...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzQ1NjM0MiwtMTczODkyOTczMiw2MT
-gxNjcwNzUsNTkyODY5ODcsLTkxMDgzMjE3Nyw3MzUxNzI3ODUs
-LTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
+eyJoaXN0b3J5IjpbMjMzMTg4MzgyLC0xNzM4OTI5NzMyLDYxOD
+E2NzA3NSw1OTI4Njk4NywtOTEwODMyMTc3LDczNTE3Mjc4NSwt
+MTE0OTk2MTg0MCwtMjkxNzAwNTA4XX0=
 -->
