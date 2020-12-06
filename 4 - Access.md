@@ -14,7 +14,7 @@
 
 **Sterkte = entropie**
 ![Entropie en tijd om het te kraken](https://i.imgur.com/wNIY6DH.png)
-![Voorbeeldwachtwoorden en hun entropia](https://i.imgur.com/HHyQcne.png)
+![Voorbeeldwachtwoorden en hun entropie](https://i.imgur.com/HHyQcne.png)
 
 De beste wachtwoorden zijn **voldoende lang**
 
@@ -31,7 +31,7 @@ De beste wachtwoorden zijn **voldoende lang**
  - Wijzig regelmatig
  - Leen wachtwoorden nooit uit
 - Gebruik 2FA voor authenticatie
-- Mijd eventueel gebruik van een wachtwoordkluis (gebruik door de organisatie goedgekeurde software)
+- Eventueel gebruik van een wachtwoordkluis (door de organisatie goedgekeurd)
 - Noteer wachtwoorden NOOIT waar deze door derden kunnen worden achterhaald
 
 ## Beveiligen van toegang
@@ -88,8 +88,8 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 - Vertical escalation
   - Meer machtigingen verwerven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NjAzMzE5LDE5NjMzNjA0MzAsMjA2MD
-EyNDA4OCwtNjk5OTYyNjMxLDg5MDU3NjI4NywxMjk5NDIxNDgy
-LC0zNTU2NjE0MDMsLTg0ODE2ODY2MSwtODg5MTMyMTY0LDE5Nj
-M5NjcwNjZdfQ==
+eyJoaXN0b3J5IjpbLTIyNTc3NzMwOCwxOTYzMzYwNDMwLDIwNj
+AxMjQwODgsLTY5OTk2MjYzMSw4OTA1NzYyODcsMTI5OTQyMTQ4
+MiwtMzU1NjYxNDAzLC04NDgxNjg2NjEsLTg4OTEzMjE2NCwxOT
+YzOTY3MDY2XX0=
 -->
