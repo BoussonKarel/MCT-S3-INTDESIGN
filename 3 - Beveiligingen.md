@@ -1,10 +1,11 @@
 # 3 - Beveiligingen
 ## Kwetsbaarheden
 - Software vulnerabilities
-  - Geen updates / foutief patch management
+  - Geen updates
+  - Foutief patch management
 - Interne toegang
   - Misbruik machtigingen
-  - Wraak / Ontslaan van werknemer
+  - Wraak (na ontslag)
 - Extern bereikbare diensten
 - Phishing / Spear phishing
   - The human factor
@@ -21,7 +22,8 @@
 - Wordt erg vaak over-gesimplificeerd
 
 ## Usability / Security
-Totale security is enkel mogelijk bij onbestaande usability
+Totale security is enkel mogelijk bij onbestaande usability.
+<>
 Optimale usability enkel bij onbestaande security
 
 Een bruikbare infrastructuur kan nooit 100% veilig zijn
@@ -51,6 +53,6 @@ Nooit op 1 enkele maatregel vertrouwen
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM1NDQ4NDMsLTExNDYxMDM1MDAsLT
-kwNTczMzAzNl19
+eyJoaXN0b3J5IjpbMTUxMzYwOTM5MSwtMTE0NjEwMzUwMCwtOT
+A1NzMzMDM2XX0=
 -->
