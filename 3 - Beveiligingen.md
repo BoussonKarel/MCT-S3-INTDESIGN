@@ -11,7 +11,7 @@
 
 ## Phishing
 - Meest gebruikte entrypoint
-- 53% weet niet wat het is
+- 54% weet niet wat het is
 - Email (SMTP) is niet geauthentiseerd
 
 
@@ -51,5 +51,6 @@ Nooit op 1 enkele maatregel vertrouwen
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYxMDM1MDAsLTkwNTczMzAzNl19
+eyJoaXN0b3J5IjpbLTEzODM1NDQ4NDMsLTExNDYxMDM1MDAsLT
+kwNTczMzAzNl19
 -->
