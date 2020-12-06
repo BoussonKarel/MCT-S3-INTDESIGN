@@ -1,4 +1,4 @@
-# Beveiligingen
+# 3 - Beveiligingen
 ## Kwetsbaarheden
 - Software vulnerabilities
   - Geen updates / foutief patch management
@@ -51,5 +51,5 @@ Nooit op 1 enkele maatregel vertrouwen
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTczMzAzNl19
+eyJoaXN0b3J5IjpbLTExNDYxMDM1MDAsLTkwNTczMzAzNl19
 -->
