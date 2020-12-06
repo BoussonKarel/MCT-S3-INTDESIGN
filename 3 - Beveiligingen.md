@@ -46,11 +46,13 @@ Nooit op 1 enkele maatregel vertrouwen
 - Strategie bij incidet
 - Plannen en documenteren
 
+![Defense in depth](https://i.imgur.com/ZK6BaM2.png)
+
 ## ICC / Belgian Cyber Security Guide
 - Checklist
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NzEwMzY1LC0xMTQ2MTAzNTAwLC05MD
-U3MzMwMzZdfQ==
+eyJoaXN0b3J5IjpbMTA3NjYxNzE0MywtMTE0NjEwMzUwMCwtOT
+A1NzMzMDM2XX0=
 -->
