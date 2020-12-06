@@ -37,8 +37,8 @@ TAPE DRIVE ~ € 4.000
 - Strategie
 - Type
 - Opslag
-  - Dichtbij de server voor snelle toegang
-  - Op een andere locatie voor veiligheid
+  - Dichtbij (snelle toegang)
+  - Andere locatie (veiligheid)
 - Controle van integriteit back-up
 - Testen van disaster-recovery plan
 
@@ -58,7 +58,7 @@ Toren naar andere kant verplaatsen, maar je mag nooit een grotere schijf op een 
 - Moet orden getest
 - Moet effectief worden uitgevoerd (want met goede voornemens...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MTY3MDc1LDU5Mjg2OTg3LC05MTA4Mz
-IxNzcsNzM1MTcyNzg1LC0xMTQ5OTYxODQwLC0yOTE3MDA1MDhd
-fQ==
+eyJoaXN0b3J5IjpbLTE3Mzg5Mjk3MzIsNjE4MTY3MDc1LDU5Mj
+g2OTg3LC05MTA4MzIxNzcsNzM1MTcyNzg1LC0xMTQ5OTYxODQw
+LC0yOTE3MDA1MDhdfQ==
 -->
