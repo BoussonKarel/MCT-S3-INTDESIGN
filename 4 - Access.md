@@ -1,12 +1,9 @@
 # 4 - Access
 ## Beveiligen van toegang
 **Drie beveiligingsbasissen (BELANGRIJK)**
-- **Weten**
-*bv Wachtwoord*
-- **Hebben**
-*bv Autosleutel*
-- **Zijn**
-*Wie dat je bent*
+- **Weten** *bv Wachtwoord*
+- **Hebben** *bv Autosleutel*
+- **Zijn** *Wie dat je bent*
 
 ### Wachtwoorden
 - Meest gebruikte vorm van authenticatie
@@ -21,8 +18,9 @@
 
 De beste wachtwoorden zijn **voldoende lang**
 
- - Opgelet voor wachtwoorden in woordenlijsten
- - Vaak gebruikte wachtwoorden zijn gekend
+- Opletten met
+ - Woordenlijsten !!!
+ - Vaak gebruikte wachtwoorden !!!
  - Enorme lijsten met wachtwoorden zijn beschikbaar
  - Vak succesvolle aanval op anders toch complexe wachtwoorden
  
@@ -90,8 +88,8 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 - Vertical escalation
   - Meer machtigingen verwerven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTEyOTE5MSwxOTYzMzYwNDMwLDIwNj
-AxMjQwODgsLTY5OTk2MjYzMSw4OTA1NzYyODcsMTI5OTQyMTQ4
-MiwtMzU1NjYxNDAzLC04NDgxNjg2NjEsLTg4OTEzMjE2NCwxOT
-YzOTY3MDY2XX0=
+eyJoaXN0b3J5IjpbLTEyNTEwMDczNTQsMTk2MzM2MDQzMCwyMD
+YwMTI0MDg4LC02OTk5NjI2MzEsODkwNTc2Mjg3LDEyOTk0MjE0
+ODIsLTM1NTY2MTQwMywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMT
+k2Mzk2NzA2Nl19
 -->
