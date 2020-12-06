@@ -46,7 +46,7 @@ TAPE DRIVE ~ € 4.000
 Back-up rotatie
 Archivering
 
-Back-up moet zowel ACTUEEL zijn alsook voldoende teruggaan in de tijd. 
+Moet zowel ACTUEEL zijn alsook voldoende historisch. 
 ![Grandfather-father-son backups](https://i.imgur.com/F18PkwQ.png)
 
 #### Towers of Hanoi
@@ -58,7 +58,7 @@ Toren naar andere kant verplaatsen, maar je mag nooit een grotere schijf op een 
 - Moet orden getest
 - Moet effectief worden uitgevoerd (want met goede voornemens...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg5Mjk3MzIsNjE4MTY3MDc1LDU5Mj
-g2OTg3LC05MTA4MzIxNzcsNzM1MTcyNzg1LC0xMTQ5OTYxODQw
-LC0yOTE3MDA1MDhdfQ==
+eyJoaXN0b3J5IjpbMTA0NzQ1NjM0MiwtMTczODkyOTczMiw2MT
+gxNjcwNzUsNTkyODY5ODcsLTkxMDgzMjE3Nyw3MzUxNzI3ODUs
+LTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
 -->
