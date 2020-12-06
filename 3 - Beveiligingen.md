@@ -22,12 +22,10 @@
 - Wordt erg vaak over-gesimplificeerd
 
 ## Usability / Security
-Totale security is enkel mogelijk bij onbestaande usability.
-<>
-Optimale usability enkel bij onbestaande security
+- Totale security enkel mogelijk bij onbestaande usability.
+- Optimale usability enkel bij onbestaande security
 
-Een bruikbare infrastructuur kan nooit 100% veilig zijn
-Voorzichtig afwegen van alle parameters en belangen
+Een bruikbare infrastructuur kan nooit 100% veilig zijn: *voorzichtig afwegen van alle parameters en belangen.*
 
 ## Tegenmaatregelen (mitigation)
 - Corporate policy - Training - Awareness
@@ -53,6 +51,6 @@ Nooit op 1 enkele maatregel vertrouwen
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzYwOTM5MSwtMTE0NjEwMzUwMCwtOT
-A1NzMzMDM2XX0=
+eyJoaXN0b3J5IjpbOTU2NzEwMzY1LC0xMTQ2MTAzNTAwLC05MD
+U3MzMwMzZdfQ==
 -->
