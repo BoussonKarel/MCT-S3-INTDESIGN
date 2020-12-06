@@ -19,17 +19,17 @@
 De beste wachtwoorden zijn **voldoende lang**
 
 - Opletten met
- - Woordenlijsten !!!
- - Vaak gebruikte wachtwoorden !!!
- - Enorme lijsten met wachtwoorden zijn beschikbaar
- - Vak succesvolle aanval op anders toch complexe wachtwoorden
+  - Woordenlijsten !!!
+  - Vaak gebruikte wachtwoorden !!!
+  - Hergebruik: wachtwoordlijsten !!!
+ - Zorgen voor succesvolle aanval op "complexe" wachtwoorden.
  
  **Tips**
- - Let erop dat het wachtwoord voldoende sterk is
- - Gebruik geen logisch patroon
+ - Voldoende sterk is
+ - Geen logisch patroon
  - Mijd hergebruik
- - Wijzig je wachtwoorden regelmatig
- - Leen nooit een wachtwoord uit
+ - Wijzig regelmatig
+ - Leen wachtwoorden nooit uit
 - Gebruik 2FA voor authenticatie
 - Mijd eventueel gebruik van een wachtwoordkluis (gebruik door de organisatie goedgekeurde software)
 - Noteer wachtwoorden NOOIT waar deze door derden kunnen worden achterhaald
@@ -88,8 +88,8 @@ Bij combinatie kiezen we bij voorkeur methodes op verschillende werkingsbasis
 - Vertical escalation
   - Meer machtigingen verwerven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEwMDczNTQsMTk2MzM2MDQzMCwyMD
-YwMTI0MDg4LC02OTk5NjI2MzEsODkwNTc2Mjg3LDEyOTk0MjE0
-ODIsLTM1NTY2MTQwMywtODQ4MTY4NjYxLC04ODkxMzIxNjQsMT
-k2Mzk2NzA2Nl19
+eyJoaXN0b3J5IjpbMzM4NjAzMzE5LDE5NjMzNjA0MzAsMjA2MD
+EyNDA4OCwtNjk5OTYyNjMxLDg5MDU3NjI4NywxMjk5NDIxNDgy
+LC0zNTU2NjE0MDMsLTg0ODE2ODY2MSwtODg5MTMyMTY0LDE5Nj
+M5NjcwNjZdfQ==
 -->
