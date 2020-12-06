@@ -17,12 +17,6 @@ Duurste onderdeel
 TAPE ROBOT ~ € 15.000
 TAPE DRIVE ~ € 4.000
 
-### Cloud back-up?
-- Aansprakelijkheid?
-- Beschikbaarheid?
-- Vertrouwelijkheid? Wetgeving?
-- Wel zeer eenvoudig en gemakkelijk!
-
 ## Eigenschappen van een correcte back-up
 - Offline !?
 - Beveiligd tegen aanpassing (Integer)
@@ -31,6 +25,12 @@ TAPE DRIVE ~ € 4.000
 - Veilig opgeslagen (Confidential)
 
 ![3 copies on 2 formats with 1 offsite](https://i.imgur.com/5KTX8wo.png)
+
+### Cloud back-up?
+- Aansprakelijkheid?
+- Beschikbaarheid?
+- Vertrouwelijkheid? Wetgeving?
+- Wel zeer eenvoudig en gemakkelijk!
 
 ## Back-up policy
 - Frequentie
@@ -58,6 +58,7 @@ Toren naar andere kant verplaatsen, maar je mag nooit een grotere schijf op een 
 - Moet orden getest
 - Moet effectief worden uitgevoerd (want met goede voornemens...)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyODY5ODcsLTkxMDgzMjE3Nyw3MzUxNz
-I3ODUsLTExNDk5NjE4NDAsLTI5MTcwMDUwOF19
+eyJoaXN0b3J5IjpbNjE4MTY3MDc1LDU5Mjg2OTg3LC05MTA4Mz
+IxNzcsNzM1MTcyNzg1LC0xMTQ5OTYxODQwLC0yOTE3MDA1MDhd
+fQ==
 -->
