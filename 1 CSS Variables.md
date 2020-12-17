@@ -32,9 +32,9 @@ p {
 }
 ```
 
-**Kan meerdere variables bevatten**
+**Kan bestaan uit andere variables**
 
-**en kan shorthand values bevatten**
+**eshorthand values bevatten**
 ```css
 :root {
 	--border-width: 1px;
@@ -201,9 +201,9 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg4NzgxODAsMTUyNDEyMDAzOSw0ND
-c3OTg5MzQsLTEwMTgwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2
-MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC
-0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTM2MjAzODMyNywtMjEzODg3ODE4MCwxNT
+I0MTIwMDM5LDQ0Nzc5ODkzNCwtMTAxODA2NzU0MCwtMTA5MzYy
+NzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNCwxMjczODUyMDEzLC
+04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0MzMz
+MDEwNSw3MzA5OTgxMTZdfQ==
 -->
