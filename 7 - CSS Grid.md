@@ -151,8 +151,27 @@ grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-li
 ## grid-template-areas
 - Laat toe om namen te geven aan grid areas
 - Visuele representatie van je grid
-- 
+- **Values:**
+  - **\<grid-area-name>** een zelfgekozen naam
+  - . een lege grid cell
+  - none geen grid lines
+
+```css
+.container {
+	grid-template-columns: 50px 50px 50px 50px;
+	grid-template-rows: auto;
+	grid-template-areas:
+		"header header header header"
+		"main main . sidebar"
+		"footer footer footer footer";
+}
+```
+
+![](https://i.imgur.com/2ah9tsB.png)
+
+## grid-area
+- Laat toe om een grid item op een voorgedefinieerde grid area te plaatsen
+- (Nog) ee
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY1MzAxNzUsLTEwMzY2MTA3NTRdfQ
-==
+eyJoaXN0b3J5IjpbNTI5NDE2MTExLC0xMDM2NjEwNzU0XX0=
 -->
