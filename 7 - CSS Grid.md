@@ -109,8 +109,15 @@ Item elementen zijn grid items. Sub-item niet.
 - Definiëren de columns en rows
 - Meerdere values gescheiden door spaties
 - De values staan voor de track size
-- De spaties staan voor d
+- De spaties staan voor de grid lines
+- **track-size:** auto, px, vh, vw, % of een fraction van de overgebleven ruimte: **fr**
+- **line-name:** automatische positieve en negatieve nummers. Maar je kan die zelf een naam geven om bij een item op te roepen.
+
+## Automatische line-names
+```css
+
+```
+![](https://i.imgur.com/EytuTh8.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE3MDAwNDYsLTEwMzY2MTA3NTRdfQ
-==
+eyJoaXN0b3J5IjpbMTE1NzQwMTY1MSwtMTAzNjYxMDc1NF19
 -->
