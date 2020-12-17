@@ -134,16 +134,28 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
   + ease-in-out
 + custom: cubic-bezier(x-p1, y-p1, x-p2, y-p2) (https://matthewlein.com/tools/ceaser)
 
-- **transition-timing-function step values**
+#### transition-timing-function step values
 - step-start instantly jumps to the final state
 - step-end stays at the initial state until the end, when it instantly jumps to the final state
 - steps(4, end) defines the number of steps before reaching the end. Does not vary gradually, but jumps from state to state.
 
+#### Multiple transitions
+ ```css
+transition: width 1s ease-in, height 2s ease-out, background-color 3s ease-in-out, transform 4s linear;
+```
+of
+```css
+transition-property: width, height, background-color, transform;
+transition-duration: 1s, 2s, 3s, 4s;
+transition-timing-function: ease-in, ease-out, ease-in-out, linear;
+```
 
-### Animation
+## CSS animation
+
+
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjkyMDU3Niw0MzA2MzM4MjUsLTU2MD
-Y0MDc1MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbNzkyODk2NDQxLDQzMDYzMzgyNSwtNTYwNj
+QwNzUwLDE2OTE5MzI5ODddfQ==
 -->
