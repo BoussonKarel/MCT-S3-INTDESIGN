@@ -93,7 +93,21 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Legt nadruk op het einde van de animatie
 - Geeft meer tijd aan de vertraging dan aan de versnelling
 
-![Image from Gyazo](https://i.imgur.com/9Zh54lR.png)
+![](https://i.imgur.com/9Zh54lR.png)
+
+### Ease-in-out
+- Begin en einde versnellen en vertragen even snel
+- Tenis effect
+- Heeft een specifiek karakter
+- Ook niet voor elke situatie
+
+![](https://i.imgur.com/yteyRFq.png)
+
+### Ease-in/out-back
+- Bounce effect
+- Maakt het nog levendiger (anticipation)
+- Niet voor elke situatie
+- Enkel voor beweging 
 
 ## Animation on the web
 ### Transition
@@ -101,5 +115,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzg0NzE3NywxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbNzcyNjIxODkyLDE2OTE5MzI5ODddfQ==
 -->
