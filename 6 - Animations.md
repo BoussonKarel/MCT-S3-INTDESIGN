@@ -5,6 +5,8 @@
 - Belangrijk onderdeel van User Interface Design
 - Micro interactions: hover, clicks, tap, gestures...
 
+- *bv. Like button wanneer je erop klikt*
+
 ## Animations
 - Een getimede animatie
 - Start zonder dat de user iets doet
@@ -19,5 +21,5 @@
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDgxNDYyOCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbMjAzNzk3ODU4OCwxNjkxOTMyOTg3XX0=
 -->
