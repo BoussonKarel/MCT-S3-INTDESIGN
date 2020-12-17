@@ -187,6 +187,5 @@ div {
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjY3NjQ0MCw0MzA2MzM4MjUsLTU2MD
-Y0MDc1MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbMjEzNjY3NjQ0MF19
 -->
