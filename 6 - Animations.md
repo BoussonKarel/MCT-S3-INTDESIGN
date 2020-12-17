@@ -151,11 +151,22 @@ transition-timing-function: ease-in, ease-out, ease-in-out, linear;
 ```
 
 ## CSS animation
+- Syntax om een getimede animatie in CSS te schrijven
+- Niet gebruiken voor transitions:
+  - Animations keren niet vanzelf terug
+- Gelijkaardige properties:
+  - animation-duration
+  - animation-timing-function: werkt met dezelfde names en cubic-beziers
+    - gebeurt per keyframe!
+
++ Geef de animatie een naam
++ Definieer de animation in @keyframes
++ Roep de animation-naam op in een element en bepaal hoe het wordt geanimeerd
 
 
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyODk2NDQxLDQzMDYzMzgyNSwtNTYwNj
+eyJoaXN0b3J5IjpbNTg1NTY1ODE5LDQzMDYzMzgyNSwtNTYwNj
 QwNzUwLDE2OTE5MzI5ODddfQ==
 -->
