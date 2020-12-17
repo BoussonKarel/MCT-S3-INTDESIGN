@@ -29,11 +29,17 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
   - afstand (af te leggen)
   - schermgrootte (hoe kleiner je scherm, hoe kleiner de afstand, hoe sneller)
 
-+ *
 
 - Material design: alle durations vastgelegd (https://material.io/design/motion/speed.html#duration)
 
+![enter image description here](https://miro.medium.com/max/1000/1*0bES0_PCswamMscW-uUuYg.gif)
+
+![enter image description here](https://miro.medium.com/max/1000/1*HEdB3qH7_M3gCy6Rlh406A.gif)
+
 ### Easing
+- Progressie van de beweging over tijd (duration)
+- Specificeert de versnelling of vertraging
+- Duratio
 
 ## Animation on the web
 ### Transition
@@ -41,5 +47,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDc1OTU0MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ1MTIyNiwxNjkxOTMyOTg3XX0=
 -->
