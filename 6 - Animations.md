@@ -48,11 +48,17 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 
 + Natuurlijke vorm van beweging
 
+
+
+![Image from Gyazo](https://i.gyazo.com/4a762f14a88405da9c426d4eb82028d7.gif)
+
+
+
 ## Animation on the web
 ### Transition
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM4MTQ0MTYsMTY5MTkzMjk4N119
+eyJoaXN0b3J5IjpbLTE4MjA1NDMzMTMsMTY5MTkzMjk4N119
 -->
