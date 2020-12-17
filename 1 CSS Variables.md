@@ -113,6 +113,9 @@ body{
 
 :root is hetzelfde als html, maar specifieker
 
+:root = html
+:root > html
+
 Kan je overal hergebruiken **en** overschrijven.
  - colors
  - whitespace
@@ -200,9 +203,9 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ4NjQyNDEsLTIxMzg4NzgxODAsMT
-UyNDEyMDAzOSw0NDc3OTg5MzQsLTEwMTgwNjc1NDAsLTEwOTM2
-MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMy
-wtODk1ODMxMzg2LC0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMz
-MzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk5MDAwNzY4OCwtMTM1NDg2NDI0MSwtMj
+EzODg3ODE4MCwxNTI0MTIwMDM5LDQ0Nzc5ODkzNCwtMTAxODA2
+NzU0MCwtMTA5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNC
+wxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcx
+MzAxODM1LDE0MzMzMDEwNSw3MzA5OTgxMTZdfQ==
 -->
