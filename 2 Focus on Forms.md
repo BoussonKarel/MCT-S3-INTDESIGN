@@ -68,7 +68,10 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 
 ![Intermediate state](https://i.imgur.com/1I29nDy.png)
 
-**Checkbox**
+
+![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
+
+**Toggle buttons = soort veredelde radio button of meerdere buttons**
 - Contextual state
 - Heeft invloed op het huidige scherm
 - Opposing options
@@ -77,8 +80,6 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - System state
 - Invloed op de volledige app
 - Binary options
-
-![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
 
 ### Textarea
 ```html
@@ -224,10 +225,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzgyMDAyMywtMjk5NjAzNzcsNTI5MT
-EyNzg3LC00MjQ2OTA1ODcsLTIwMDk3MzYzNTQsLTgxNjI3NTAz
-Miw0NDE2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04Nz
-E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
-NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbODQ4NzE1NjU1LC0yOTk2MDM3Nyw1MjkxMT
+I3ODcsLTQyNDY5MDU4NywtMjAwOTczNjM1NCwtODE2Mjc1MDMy
+LDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQwMjUsLTg3MT
+c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
+NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
+g4NzQ2NjEyXX0=
 -->
