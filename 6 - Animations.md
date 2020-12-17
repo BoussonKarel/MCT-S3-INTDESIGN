@@ -194,7 +194,15 @@ div {
 - Gebruik de will-change property om de browser te waarschuwen wat er geanimeerd zal worden.
 
 ### JS libraries
-- Niet all
+- Niet alles is mogelijk met CSS
+- Complexe easing functions
+- Timeline control
+- Transform properties apart animeren
+- Complex sequencing
+- Performantie
+- Browser compatibality
+- ...
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjQ4MjM4LDIxMzY2NzY0NDBdfQ==
+eyJoaXN0b3J5IjpbMTUyMjgwNjUzOSwyMTM2Njc2NDQwXX0=
 -->
