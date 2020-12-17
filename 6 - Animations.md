@@ -136,12 +136,14 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 + custom: cubic-bezier(x-p1, y-p1, x-p2, y-p2) (https://matthewlein.com/tools/ceaser)
 
 - **transition-timing-function step values**
-- step-start instantly 
+- step-start instantly jumps to the final state
+- step-end stays at the initial state until the end, when it instantly jumps to the final state
+- 
 - Weten dat het kan
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzMzE5NTYsNDMwNjMzODI1LC01Nj
+eyJoaXN0b3J5IjpbLTE3NjA1NTExNDQsNDMwNjMzODI1LC01Nj
 A2NDA3NTAsMTY5MTkzMjk4N119
 -->
