@@ -46,8 +46,15 @@ Item elementen zijn grid items. Sub-item niet.
 ## Grid Track
 - Ruimte tussen twee opeenvolgende grid lines
 - Vertical: columns
-- H
+- Horizontal: rows
+
+![](https://i.imgur.com/fuyWucn.png)
+
+## Grid Cell
+- Ruimte tussen twee opeenvolgende row & column grid lines
+![](https://i.imgur.com/DbkzMB7.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg0NTMyNTUsLTEwMzY2MTA3NTRdfQ
-==
+eyJoaXN0b3J5IjpbMTMyNDUxNzcwNCwtMTAzNjYxMDc1NF19
 -->
