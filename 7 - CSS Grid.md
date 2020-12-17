@@ -170,8 +170,10 @@ grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-li
 ![](https://i.imgur.com/2ah9tsB.png)
 
 ## grid-area
-- Laat toe om een grid item op een voorgedefinieerde grid area te plaatsen
-- (Nog) ee
+- Laat toe om een grid item op een **voorgedefinieerde** grid area te plaatsen
+- (Nog) een kortere manier dus om de volgorde te bepalen
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NDE2MTExLC0xMDM2NjEwNzU0XX0=
+eyJoaXN0b3J5IjpbLTEzNzcxNzkyLC0xMDM2NjEwNzU0XX0=
 -->
