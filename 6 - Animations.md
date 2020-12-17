@@ -114,10 +114,13 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 
 ## Animation on the web
 ### CSS transition
-
+- Automatische animatie tussen 2 verschillende property values
+- Keer automatisch terug als de animatie nog niet helemaal gedaan is
+- **Altijd op de initiële state declareren**
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDY0MDc1MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbMzg1NzYwNTgyLC01NjA2NDA3NTAsMTY5MT
+kzMjk4N119
 -->
