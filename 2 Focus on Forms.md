@@ -57,7 +57,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Gekoppeld aan elkaar door het name attribuut
  - Niet voor enkele binaire keuzes
 
-### Checkbox or toggle
+### Checkbox or toggle switch?
 |Checkbox|Toggle switch|
 |--|--|
 |Checked of niet|Aan of Uit|
@@ -69,6 +69,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ![Intermediate state](https://i.imgur.com/1I29nDy.png)
 
 
+### Toggle switch of toggle button?
 ![Contextual State or System State](https://i.imgur.com/xJro1eE.png)
 
 **Toggle buttons = soort veredelde radio button of meerdere buttons**
@@ -225,10 +226,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NzE1NjU1LC0yOTk2MDM3Nyw1MjkxMT
-I3ODcsLTQyNDY5MDU4NywtMjAwOTczNjM1NCwtODE2Mjc1MDMy
-LDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQwMjUsLTg3MT
-c1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLTExMjI5MjI0
-NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgwODYwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExODQxODA4MDMsLTI5OTYwMzc3LDUyOT
+ExMjc4NywtNDI0NjkwNTg3LC0yMDA5NzM2MzU0LC04MTYyNzUw
+MzIsNDQxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1NDAwNDAyNSwtOD
+cxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0NiwtMTEyMjky
+MjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLT
+IwODg3NDY2MTJdfQ==
 -->
