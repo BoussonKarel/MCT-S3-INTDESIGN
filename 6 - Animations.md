@@ -107,13 +107,17 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Bounce effect
 - Maakt het nog levendiger (anticipation)
 - Niet voor elke situatie
-- Enkel voor beweging 
+- Enkel voor beweging (niet voor color changes)
+- Negatieve y-waarde
+
+![](https://i.imgur.com/jw8d9su.png)
 
 ## Animation on the web
-### Transition
+### CSS transition
+
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNjIxODkyLDE2OTE5MzI5ODddfQ==
+eyJoaXN0b3J5IjpbLTU2MDY0MDc1MCwxNjkxOTMyOTg3XX0=
 -->
