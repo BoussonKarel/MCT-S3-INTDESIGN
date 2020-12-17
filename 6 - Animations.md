@@ -67,17 +67,22 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Decelerate easing
 - Begint snel
 - Vertraagt naar het einde
-- Ideaal voor inkomende elementen
+- Ideaal voor **inkomende elementen**
 
-
+![](https://miro.medium.com/max/1000/1*JhyE_rYlaad9DQt6VHFeEA.gif)
 
 ### Ease-out extra functions
-- Decelerate easing
-- Begint snel
-- Vertraagt naar het einde
-- Ideaal voor inkomende elementen
+![enter image description here](https://i.imgur.com/9Hbld5j.png)
 
+### Ease-in
+- Accelerate easing
+- Begint traag
+- Versnelt naar het einde
+- Ideaal voor **uitgaande elementen**
 
++ OPGELET:
+  + EASE-**OUT** VOOR **INKOMENDE** ELEMENTEN
+  + EASE-**IN** VOOR UITGAANDE ELEMENTEN
 
 ## Animation on the web
 ### Transition
@@ -85,5 +90,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTU1MzY0NiwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTcxMDM3NTA0NiwxNjkxOTMyOTg3XX0=
 -->
