@@ -20,7 +20,16 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### Duration
 - Hoe lang duurt de perfecte transition
 - Niet te lang, niet te kort
-- Tussen 200ms en 500ms
+- Tussen 200ms en 500ms voor interface elementen
+- Onder 100ms: nauwelijks zichtbaar
+- Boven 1s: te traag, hinderlijk
+- Afhankelijk van:
+  - grootte object
+  - complexiteit
+  - afstand (af te leggen)
+  - schermgrootte
+
++ *
 
 ### Easing
 
@@ -30,5 +39,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MzgzNzQ4LDE2OTE5MzI5ODddfQ==
+eyJoaXN0b3J5IjpbLTEwNjA0Mzc1NTMsMTY5MTkzMjk4N119
 -->
