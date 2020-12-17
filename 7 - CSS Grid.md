@@ -37,7 +37,17 @@ Item elementen zijn grid items. Sub-item niet.
 ```
 
 ## Grid Line
+- Scheidingslijnen die de structuur van het grid bepalen
+- Vertical: column grid line
+- Horizontal: row grid line
 
+![](https://i.imgur.com/CQWM5x9.png)
+
+## Grid Track
+- Ruimte tussen twee opeenvolgende grid lines
+- Vertical: columns
+- H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MzgzMzIxLC0xMDM2NjEwNzU0XX0=
+eyJoaXN0b3J5IjpbLTE5MTg0NTMyNTUsLTEwMzY2MTA3NTRdfQ
+==
 -->
