@@ -117,10 +117,16 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Automatische animatie tussen 2 verschillende property values
 - Keer automatisch terug als de animatie nog niet helemaal gedaan is
 - **Altijd op de initiële state declareren**
+
+#### CSS transition properties
+- **transition-duration:** duur van de animatie in ms of s (required)
+- **transition-timing-function:** easing (optioneel)
+- **transition-delay:** vertraging vooraleer de animatie start (o
+- 
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NzYwNTgyLC01NjA2NDA3NTAsMTY5MT
+eyJoaXN0b3J5IjpbMzQ2Nzk5NDgzLC01NjA2NDA3NTAsMTY5MT
 kzMjk4N119
 -->
