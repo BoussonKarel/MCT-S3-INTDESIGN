@@ -57,7 +57,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
  - Gekoppeld aan elkaar door het name attribuut
  - Niet voor enkele binaire keuzes
 
-### Checkbox or toggle switch?
+### Checkbox of toggle switch?
 |Checkbox|Toggle switch|
 |--|--|
 |Checked of niet|Aan of Uit|
@@ -226,10 +226,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQxODA4MDMsLTI5OTYwMzc3LDUyOT
-ExMjc4NywtNDI0NjkwNTg3LC0yMDA5NzM2MzU0LC04MTYyNzUw
-MzIsNDQxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1NDAwNDAyNSwtOD
-cxNzU1NDM0LDU3Njg5OTcwNywtMTExODY3NDk0NiwtMTEyMjky
-MjQ3OCwxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTg0MjgxNzcxMywtMjk5NjAzNzcsNTI5MT
+EyNzg3LC00MjQ2OTA1ODcsLTIwMDk3MzYzNTQsLTgxNjI3NTAz
+Miw0NDE2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04Nz
+E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
+NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
+A4ODc0NjYxMl19
 -->
