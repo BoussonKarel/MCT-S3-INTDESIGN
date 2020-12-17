@@ -138,7 +138,11 @@ grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-li
     - 1 column die automatisch de breedte van de content krijgt
     - 1 column van 1fr
 
-## grid-column-start, grid-column-end, grid-row-start, grid-column-end, grid-column, grid-row
+## grid-column(-start/end), grid-row(-start/end)
+- Bepaalt de locatie van een **grid item** binnen het grid door te refereren naar grid lines.
+- **Values:**
+  - \<line>
+  - span \<number> of \<name>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDc3MDcxMCwtMTAzNjYxMDc1NF19
+eyJoaXN0b3J5IjpbNDkyODA1OTAxLC0xMDM2NjEwNzU0XX0=
 -->
