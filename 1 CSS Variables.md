@@ -6,7 +6,7 @@
  - To keep consistency, set globial variables for everything except layout values
 
 ## Opbouw & syntax
-**Defining the variable**
+**Custom property: defining the variable**
 ```css
 :root {
 	--ITS-CASE-SENSITIVE: red;
@@ -14,7 +14,7 @@
 }
 ```
 
-**Applying the variable**
+**Cascading variable: applying the variable**
 ```css
 p {
 	color: var(--ITS-CASE-SENSITIVE); /* red */
@@ -197,8 +197,9 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDEyMDAzOSw0NDc3OTg5MzQsLTEwMT
-gwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMx
-MjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC0xNzkxODcxMTMzLD
-k3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbODEyMzQ4MTk0LDE1MjQxMjAwMzksNDQ3Nz
+k4OTM0LC0xMDE4MDY3NTQwLC0xMDkzNjI3MDg0LC01MTE0NjI2
+NjIsNzkyOTEzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMT
+c5MTg3MTEzMyw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODEx
+Nl19
 -->
