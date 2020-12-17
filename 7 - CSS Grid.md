@@ -52,9 +52,22 @@ Item elementen zijn grid items. Sub-item niet.
 
 ## Grid Cell
 - Ruimte tussen twee opeenvolgende row & column grid lines
+
 ![](https://i.imgur.com/DbkzMB7.png)
 
+## Grid Area
+- Ruimte tussen twee row & column grid lines
+- Kan meerdere grid cells bevatten
 
+![](https://i.imgur.com/WvEMAcH.png)
+
+## Properties voor de parent (container)
+- **display:** grid | inline-grid
+- **Grid tracks, lines en area's definiëren**
+  - grid-template-columns
+  - grid-template-rows
+  - grid-template-areas
+  - grid-template (shorthand)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDUxNzcwNCwtMTAzNjYxMDc1NF19
+eyJoaXN0b3J5IjpbMTY3MTkzMzc3MywtMTAzNjYxMDc1NF19
 -->
