@@ -7,7 +7,15 @@
 
 + Browser support: sinds maart 2017
 
-##
+## CSS Grid Layout
+- Grid container: parent
+  - Bepaalt de layout
+- Grid items: children
+  - Volgen de layout
+  - Default source order van de children, maar laat toe om de order zowel verticaal als horizontaal te veranderen
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0Nzk0NjM2LC0xMDM2NjEwNzU0XX0=
+eyJoaXN0b3J5IjpbLTIwOTQxNTk2NDksLTEwMzY2MTA3NTRdfQ
+==
 -->
