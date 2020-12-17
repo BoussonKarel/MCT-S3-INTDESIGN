@@ -80,9 +80,18 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Versnelt naar het einde
 - Ideaal voor **uitgaande elementen**
 
+### Ease-in extra functions
+![](https://i.imgur.com/m4Ly2mX.png)
+---
 + OPGELET:
   + EASE-**OUT** VOOR **INKOMENDE** ELEMENTEN
   + EASE-**IN** VOOR **UITGAANDE** ELEMENTEN
+
+### Ease
+- Meestvoorkomende soort easing
+- Zowel op begin als einde
+- Legt nadruk op het einde van de animatie
+- Geeft meer tijd aan de vertraging dan aan de versnelling
 
 ## Animation on the web
 ### Transition
@@ -90,5 +99,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc3ODY3NTgsMTY5MTkzMjk4N119
+eyJoaXN0b3J5IjpbLTE4OTg5OTk3MywxNjkxOTMyOTg3XX0=
 -->
