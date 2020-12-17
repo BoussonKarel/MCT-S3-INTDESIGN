@@ -111,12 +111,11 @@ body{
 ### Global scoped variables
 **:root** is a CSS pseudo-class selector used to select the element that represents the root of the document
 
-:root is hetzelfde als html, maar specifieker
+- :root is hetzelfde als html, maar specifieker
+- :root = html
+- :root > html
 
-:root = html
-:root > html
-
-Kan je overal hergebruiken **en** overschrijven.
+Global variables kan je overal hergebruiken **en** overschrijven.
  - colors
  - whitespace
  - border-radius
@@ -126,9 +125,8 @@ Kan je overal hergebruiken **en** overschrijven.
 ### Local scoped variables
 Local scoped variables worden gedeclareerd binnen een specifieke selector.
 
-Ze hebben access tot global scoped variables.
-
-Ideaal voor components.
+- Ze hebben access tot global scoped variables.
++ Ideaal voor components.
 
 ```css
 .alert {
@@ -203,7 +201,7 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDAwNzY4OCwtMTM1NDg2NDI0MSwtMj
+eyJoaXN0b3J5IjpbLTc2ODQ4MzMxNSwtMTM1NDg2NDI0MSwtMj
 EzODg3ODE4MCwxNTI0MTIwMDM5LDQ0Nzc5ODkzNCwtMTAxODA2
 NzU0MCwtMTA5MzYyNzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNC
 wxMjczODUyMDEzLC04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcx
