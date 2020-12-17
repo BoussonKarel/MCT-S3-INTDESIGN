@@ -93,11 +93,13 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - Legt nadruk op het einde van de animatie
 - Geeft meer tijd aan de vertraging dan aan de versnelling
 
+![Image from Gyazo](https://i.imgur.com/9Zh54lR.png)
+
 ## Animation on the web
 ### Transition
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg5OTk3MywxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbMTUyMzg0NzE3NywxNjkxOTMyOTg3XX0=
 -->
