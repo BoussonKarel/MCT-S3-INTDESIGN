@@ -121,12 +121,15 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 #### CSS transition properties
 - **transition-duration:** duur van de animatie in ms of s (required)
 - **transition-timing-function:** easing (optioneel)
-- **transition-delay:** vertraging vooraleer de animatie start (o
-- 
+- **transition-delay:** vertraging vooraleer de animatie start (optioneel)
+- **transition-property:** welke property moet er geanimeerd worden (default: all; optioneel)
+- **transition:** [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
+ 
++ **transition-timing-function:**
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2Nzk5NDgzLC01NjA2NDA3NTAsMTY5MT
+eyJoaXN0b3J5IjpbNDMwNjMzODI1LC01NjA2NDA3NTAsMTY5MT
 kzMjk4N119
 -->
