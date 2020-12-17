@@ -6,7 +6,7 @@
  - To keep consistency, set globial variables for everything except layout values
 
 ## Opbouw & syntax
-**Custom property: defining the variable**
+- **Custom property: defining the variable**
 ```css
 :root {
 	--CASE-SENSITIVE: red;
@@ -14,7 +14,7 @@
 }
 ```
 
-**Cascading variable: applying the variable**
+- **Cascading variable: applying the variable**
 ```css
 p {
 	color: var(--CASE-SENSITIVE); /* red */
@@ -25,16 +25,15 @@ p {
 }
 ```
 
-**Use calc() to do math**
+- **Use calc() to do math**
 ```css
 :root {
 	--whitespace-lg: calc(var(--whitespace) * 2);
 }
 ```
 
-**Kan bestaan uit andere variables**
-
-**eshorthand values bevatten**
+- **Kan bestaan uit andere variables**
+- **en shorthand values bevatten**
 ```css
 :root {
 	--border-width: 1px;
@@ -44,7 +43,7 @@ p {
 }
 ```
 
-**Default values (with other variables)**
+- **Default values (with other variables)**
 ```css
 .c-button {
 	border: 1px solid var(--button-color, HotPink);
@@ -52,7 +51,7 @@ p {
 }
 
 .c-button--beta {
---button-color: red;
+	--button-color: red;
 }
 ```
 
@@ -201,9 +200,9 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjAzODMyNywtMjEzODg3ODE4MCwxNT
-I0MTIwMDM5LDQ0Nzc5ODkzNCwtMTAxODA2NzU0MCwtMTA5MzYy
-NzA4NCwtNTExNDYyNjYyLDc5MjkxMzEyNCwxMjczODUyMDEzLC
-04OTU4MzEzODYsLTE3OTE4NzExMzMsOTcxMzAxODM1LDE0MzMz
-MDEwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTQ4NjQyNDEsLTIxMzg4NzgxODAsMT
+UyNDEyMDAzOSw0NDc3OTg5MzQsLTEwMTgwNjc1NDAsLTEwOTM2
+MjcwODQsLTUxMTQ2MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMy
+wtODk1ODMxMzg2LC0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMz
+MzAxMDUsNzMwOTk4MTE2XX0=
 -->
