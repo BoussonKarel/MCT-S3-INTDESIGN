@@ -125,11 +125,16 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - **transition-property:** welke property moet er geanimeerd worden (default: all; optioneel)
 - **transition:** [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
  
-+ **transition-timing-function:**
++ **transition-timing-function**
++ Easing
++ Standard easing names (zijn ook cubic-bezier functies)
+  + ease
+  + linear
+  + ease-in
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNjMzODI1LC01NjA2NDA3NTAsMTY5MT
-kzMjk4N119
+eyJoaXN0b3J5IjpbNTUzMDczODg4LDQzMDYzMzgyNSwtNTYwNj
+QwNzUwLDE2OTE5MzI5ODddfQ==
 -->
