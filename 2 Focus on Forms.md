@@ -49,7 +49,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 ### Option-achtigen
 **checkbox**
  - Meerdere keuzes mogelijk uit een aantal keuzes
- - Of kan alleen bestaan
+ - Kan alleen (op zichzelf) bestaan
 
 **radio (button)**
  - Slechts 1 keuze mogelijk uit een aantal keuzes
@@ -224,9 +224,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5MTEyNzg3LC00MjQ2OTA1ODcsLTIwMD
-k3MzYzNTQsLTgxNjI3NTAzMiw0NDE2ODM5ODIsMTAzNTgyNzU4
-MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3LC0xMT
-E4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2
-NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI5OTYwMzc3LDUyOTExMjc4NywtNDI0Nj
+kwNTg3LC0yMDA5NzM2MzU0LC04MTYyNzUwMzIsNDQxNjgzOTgy
+LDEwMzU4Mjc1ODIsMTE1NDAwNDAyNSwtODcxNzU1NDM0LDU3Nj
+g5OTcwNywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYw
+MzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ
+==
 -->
