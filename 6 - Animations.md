@@ -181,11 +181,12 @@ transition-timing-function: ease-in, ease-out, ease-in-out, linear;
 div {
 	animation-duration: 2s;
 	animation-name: bounceIn;
+	animation-timing-function:  ease-in-out;
 }
 ```
 
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjY3NjQ0MF19
+eyJoaXN0b3J5IjpbMTgxMDU2NTQ0MCwyMTM2Njc2NDQwXX0=
 -->
