@@ -187,10 +187,14 @@ div {
 
 ### Animatable CSS properties
 - Welke properties kan je best gebruiken om te animeren?
-- 
+  - opacity
+  - transform: translate
+  - transform: rotate
+  - transform: scale
+- Gebruik de will-change property om de browser te waarschuwen wat er geanimeerd zal worden.
 
-### High Performance Animations
 ### JS libraries
+- Niet all
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA0Nzc1MjIsMjEzNjY3NjQ0MF19
+eyJoaXN0b3J5IjpbMTY1NjQ4MjM4LDIxMzY2NzY0NDBdfQ==
 -->
