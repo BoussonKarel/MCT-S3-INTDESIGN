@@ -60,6 +60,24 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
   - p1 en p2: control points
 - cubic-bezier(x-p1, y-p1, x-p2, y-p2)
 
+![](https://i.imgur.com/W9gx0XI.png)
+
+
+### Ease-out
+- Decelerate easing
+- Begint snel
+- Vertraagt naar het einde
+- Ideaal voor inkomende elementen
+
+
+
+### Ease-out extra functions
+- Decelerate easing
+- Begint snel
+- Vertraagt naar het einde
+- Ideaal voor inkomende elementen
+
+
 
 ## Animation on the web
 ### Transition
@@ -67,5 +85,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODk5NTQ2MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTQwMTU1MzY0NiwxNjkxOTMyOTg3XX0=
 -->
