@@ -48,10 +48,17 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 
 + Natuurlijke vorm van beweging
 
-
+![](https://miro.medium.com/max/1000/1*JsluHqaqpzaUwSrDaw9-fg.gif)
 
 ![Image from Gyazo](https://i.gyazo.com/4a762f14a88405da9c426d4eb82028d7.gif)
 
+### Cubic-bezier curves
+- Visualiseren de progressie van de beweging over tijd (duration)
+- Timing functions
+- 4 punten:
+  - p0 en p3: begin en einde
+  - p1 en p2: control points
+- cubic-bezier(x-p1, y-p1, x-p2, y-p2)
 
 
 ## Animation on the web
@@ -60,5 +67,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA1NDMzMTMsMTY5MTkzMjk4N119
+eyJoaXN0b3J5IjpbMTgzODk5NTQ2MCwxNjkxOTMyOTg3XX0=
 -->
