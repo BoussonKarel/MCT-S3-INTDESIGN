@@ -85,7 +85,21 @@ Item elementen zijn grid items. Sub-item niet.
   - grid-auto-flow
 - grid (shorthand)
 
+## Properties voor de child (items)
+- **Locatie binnen de container**
+  - grid-column-start
+  - grid-column-end
+  - grid-row-start
+  - grid-row-end
+  - grid-column
+  - grid-row
+  - grid-area
+- **Alignment**
+  - justify-self
+  - align-self
+  - place-self
+
+## Grid-gap
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAzODg2MjgsLTEwMzY2MTA3NTRdfQ
-==
+eyJoaXN0b3J5IjpbMjAxMTI2NjcyOSwtMTAzNjYxMDc1NF19
 -->
