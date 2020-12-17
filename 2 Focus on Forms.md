@@ -221,15 +221,16 @@ Deze volgorde in de CSS is belangrijk!
   - Voordat het opgeslagen wordt in de database
   - Laatste
 
-- Voorkom dat gebruikers fouten maken
-- Als ze dan toch fouten maken en kunnen submitten
-  - Verzorg duidelijke foutboodschappen
-  - Zet foutboodschappen inline bij hun input
++ Voorkom dat gebruikers fouten maken
++ Als ze dan toch fouten maken en kunnen submitten
+  + Verzorg duidelijke foutboodschappen
+  + Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQ0Mzk5MSwxNTAxNDk2MTc3LDE4ND
-I4MTc3MTMsLTI5OTYwMzc3LDUyOTExMjc4NywtNDI0NjkwNTg3
-LC0yMDA5NzM2MzU0LC04MTYyNzUwMzIsNDQxNjgzOTgyLDEwMz
-U4Mjc1ODIsMTE1NDAwNDAyNSwtODcxNzU1NDM0LDU3Njg5OTcw
-NywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC
-03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMDc0NTE5NDUsMTg4ODQ0Mzk5MSwxNT
+AxNDk2MTc3LDE4NDI4MTc3MTMsLTI5OTYwMzc3LDUyOTExMjc4
+NywtNDI0NjkwNTg3LC0yMDA5NzM2MzU0LC04MTYyNzUwMzIsND
+QxNjgzOTgyLDEwMzU4Mjc1ODIsMTE1NDAwNDAyNSwtODcxNzU1
+NDM0LDU3Njg5OTcwNywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OC
+wxNzAwMjYwMzMzLC03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3
+NDY2MTJdfQ==
 -->
