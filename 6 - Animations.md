@@ -27,9 +27,11 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
   - grootte object
   - complexiteit
   - afstand (af te leggen)
-  - schermgrootte
+  - schermgrootte (hoe kleiner je scherm, hoe kleiner de afstand, hoe sneller)
 
 + *
+
+- Material design: alle durations vastgelegd (https://material.io/design/motion/speed.html#duration)
 
 ### Easing
 
@@ -39,5 +41,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA0Mzc1NTMsMTY5MTkzMjk4N119
+eyJoaXN0b3J5IjpbMjA4MDc1OTU0MCwxNjkxOTMyOTg3XX0=
 -->
