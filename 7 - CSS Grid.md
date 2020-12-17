@@ -14,8 +14,13 @@
   - Volgen de layout
   - Default source order van de children, maar laat toe om de order zowel verticaal als horizontaal te veranderen
 
-
+## Grid container
+```html
+<div class="container">
+	<div class="item item-1"></div>
+	<div class="item item-2"></div>
+	<div class="item item-3"></div>
+</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQxNTk2NDksLTEwMzY2MTA3NTRdfQ
-==
+eyJoaXN0b3J5IjpbMjA0ODc5MzkxMSwtMTAzNjYxMDc1NF19
 -->
