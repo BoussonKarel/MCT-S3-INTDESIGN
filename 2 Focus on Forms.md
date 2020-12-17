@@ -23,6 +23,7 @@ Belangrijkste, te kennen types:
 - Select
 - Range
 - Hors catégorie
+
 ### HTML5 Input types
 - Browser validatie
 - Smartphone keyboard verandert (letters naar nummers...)
@@ -223,9 +224,9 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDY5MDU4NywtMjAwOTczNjM1NCwtOD
-E2Mjc1MDMyLDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNTQwMDQw
-MjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5NDYsLT
-ExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC01ODgw
-ODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTI5MTEyNzg3LC00MjQ2OTA1ODcsLTIwMD
+k3MzYzNTQsLTgxNjI3NTAzMiw0NDE2ODM5ODIsMTAzNTgyNzU4
+MiwxMTU0MDA0MDI1LC04NzE3NTU0MzQsNTc2ODk5NzA3LC0xMT
+E4Njc0OTQ2LC0xMTIyOTIyNDc4LDE3MDAyNjAzMzMsLTcyMDk2
+NzM5OCwtNTg4MDg2MCwtMjA4ODc0NjYxMl19
 -->
