@@ -128,13 +128,19 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 + **transition-timing-function**
 + Easing
 + Standard easing names (zijn ook cubic-bezier functies)
-  + ease
+  + ease (default)
   + linear
   + ease-in
+  + ease-out
+  + ease-in-out
++ custom: cubic-bezier(x-p1, y-p1, x-p2, y-p2) (https://matthewlein.com/tools/ceaser)
+
+- **transition-timing-function step values**
+- **step-start:** the transition jum
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMDczODg4LDQzMDYzMzgyNSwtNTYwNj
-QwNzUwLDE2OTE5MzI5ODddfQ==
+eyJoaXN0b3J5IjpbLTYzMjYzMjA5OCw0MzA2MzM4MjUsLTU2MD
+Y0MDc1MCwxNjkxOTMyOTg3XX0=
 -->
