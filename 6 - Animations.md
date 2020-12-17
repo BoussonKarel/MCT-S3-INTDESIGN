@@ -136,11 +136,12 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 + custom: cubic-bezier(x-p1, y-p1, x-p2, y-p2) (https://matthewlein.com/tools/ceaser)
 
 - **transition-timing-function step values**
-- **step-start:** the transition jum
+- step-start instantly 
+- Weten dat het kan
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjYzMjA5OCw0MzA2MzM4MjUsLTU2MD
-Y0MDc1MCwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTE0NjIzMzE5NTYsNDMwNjMzODI1LC01Nj
+A2NDA3NTAsMTY5MTkzMjk4N119
 -->
