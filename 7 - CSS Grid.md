@@ -115,9 +115,15 @@ Item elementen zijn grid items. Sub-item niet.
 
 ## Automatische line-names
 ```css
-
+grid-template-columns: 40px 50px auto 50px 40px;
+grid-template-rows: 25% 100px  auto;
 ```
 ![](https://i.imgur.com/EytuTh8.png)
+
+```css
+grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];
+grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzQwMTY1MSwtMTAzNjYxMDc1NF19
+eyJoaXN0b3J5IjpbNTQxNzU2ODQ5LC0xMDM2NjEwNzU0XX0=
 -->
