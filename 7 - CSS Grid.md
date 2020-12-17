@@ -99,7 +99,18 @@ Item elementen zijn grid items. Sub-item niet.
   - align-self
   - place-self
 
-## Grid-gap
+## grid-gap
+- Gutter tussen opeenvolgende items (niet links of rechts, boven of onder)
+- grid-column-gap
+- grid-row-gap
+- grid-gap: [row-gap] [column-gap]
+
+## grid-template-columns / grid-template-rows
+- Definiëren de columns en rows
+- Meerdere values gescheiden door spaties
+- De values staan voor de track size
+- De spaties staan voor d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTI2NjcyOSwtMTAzNjYxMDc1NF19
+eyJoaXN0b3J5IjpbLTIxNDE3MDAwNDYsLTEwMzY2MTA3NTRdfQ
+==
 -->
