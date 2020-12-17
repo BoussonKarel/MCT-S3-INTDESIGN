@@ -112,20 +112,19 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 
 ![](https://i.imgur.com/jw8d9su.png)
 
-## Animation on the web
-### CSS transition
+## CSS transition
 - Automatische animatie tussen 2 verschillende property values
 - Keer automatisch terug als de animatie nog niet helemaal gedaan is
 - **Altijd op de initiële state declareren**
 
-#### CSS transition properties
+### CSS transition properties
 - **transition-duration:** duur van de animatie in ms of s (required)
 - **transition-timing-function:** easing (optioneel)
 - **transition-delay:** vertraging vooraleer de animatie start (optioneel)
 - **transition-property:** welke property moet er geanimeerd worden (default: all; optioneel)
 - **transition:** [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
  
-+ **transition-timing-function**
+#### transition-timing-function
 + Easing
 + Standard easing names (zijn ook cubic-bezier functies)
   + ease (default)
@@ -138,12 +137,13 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 - **transition-timing-function step values**
 - step-start instantly jumps to the final state
 - step-end stays at the initial state until the end, when it instantly jumps to the final state
-- 
-- Weten dat het kan
+- steps(4, end) defines the number of steps before reaching the end. Does not vary gradually, but jumps from state to state.
+
+
 ### Animation
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1NTExNDQsNDMwNjMzODI1LC01Nj
-A2NDA3NTAsMTY5MTkzMjk4N119
+eyJoaXN0b3J5IjpbMTI2MjkyMDU3Niw0MzA2MzM4MjUsLTU2MD
+Y0MDc1MCwxNjkxOTMyOTg3XX0=
 -->
