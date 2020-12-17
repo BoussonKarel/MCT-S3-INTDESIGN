@@ -141,8 +141,18 @@ grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-li
 ## grid-column(-start/end), grid-row(-start/end)
 - Bepaalt de locatie van een **grid item** binnen het grid door te refereren naar grid lines.
 - **Values:**
-  - \<line>
-  - span \<number> of \<name>
+  - **\<line>** positief of negatief nummer of de zelfgekozen grid line name
+  - **span \<number> of \<name>** hoeveel grid tracks moet het element innemen
+- *Bijvoorbeeld:*
+	- *grid-column-start: 2*
+	- *grid-column-end: span 2*
+	- *grid-column: 2 / span 2*
+
+## grid-template-areas
+- Laat toe om namen te geven aan grid areas
+- Visuele representatie van je grid
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyODA1OTAxLC0xMDM2NjEwNzU0XX0=
+eyJoaXN0b3J5IjpbLTEyNDY1MzAxNzUsLTEwMzY2MTA3NTRdfQ
+==
 -->
