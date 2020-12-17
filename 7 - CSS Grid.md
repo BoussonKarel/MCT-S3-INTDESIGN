@@ -131,8 +131,13 @@ grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-li
   - 1fr: fraction unit: 1 deel van de  overgebleven ruimte
   - auto: neemt de breedste of hoogste content als basis voor de breedte of hoogte
   - repeat(12, 1fr): maakt 12 kolommen aan van 1fr
-  - minmax(260px, 1fr): maakt 1 column of row aan van m
+  - minmax(260px, 1fr): maakt 1 column of row aan van minimum 260px en maximum 1fr
+  - auto-fit en auto-fill keywords: responsive grid system without media queries
+  - **Combinaties:** grid-template-columns: minmax(150px, 1fr) auto 1fr;
+    - 1 column aan van minimum 150px en maximum 1fr
+    - 1 column die automatisch de breedte van de content krijgt
+    - 1 column die altijd 1fr is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE4NTA0MTQsLTEwMzY2MTA3NTRdfQ
+eyJoaXN0b3J5IjpbLTE3NTk1OTgxNTUsLTEwMzY2MTA3NTRdfQ
 ==
 -->
