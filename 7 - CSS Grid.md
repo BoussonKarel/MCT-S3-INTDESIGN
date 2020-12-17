@@ -68,6 +68,24 @@ Item elementen zijn grid items. Sub-item niet.
   - grid-template-rows
   - grid-template-areas
   - grid-template (shorthand)
+- **Gap (gutter)**
+  - grid-column-gap
+  - grid-row-gap
+  - grid-gap (shorthand)
+- **Alignment**
+  - justify-items
+  - align-items
+  - place-items
+  - justify-content
+  - align-content
+  - place-content
+- **auto-generated grid tracks**
+  - grid-auto-columns
+  - grid-auto-rows
+  - grid-auto-flow
+- grid (shorthand)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTkzMzc3MywtMTAzNjYxMDc1NF19
+eyJoaXN0b3J5IjpbLTE3MDAzODg2MjgsLTEwMzY2MTA3NTRdfQ
+==
 -->
