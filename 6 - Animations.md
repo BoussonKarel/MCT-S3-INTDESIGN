@@ -39,7 +39,14 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### Easing
 - Progressie van de beweging over tijd (duration)
 - Specificeert de versnelling of vertraging
-- Duratio
+- Duration blijft hetzelfde
+- In plaats van een constant (lineair) tempo
+- Maakt de animatie natuurlijker
+- Geeft de animatie karakter
+- Alsof elementen beïnvloed worden door natuurlijke krachten zoals wrijving en zwaartekracht
+- 1 van de essentiële **principes van animatie**
+
++ Natuurlijke vorm van beweging
 
 ## Animation on the web
 ### Transition
@@ -47,5 +54,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ1MTIyNiwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTEwMTM4MTQ0MTYsMTY5MTkzMjk4N119
 -->
