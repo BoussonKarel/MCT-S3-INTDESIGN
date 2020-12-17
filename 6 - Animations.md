@@ -163,10 +163,9 @@ transition-timing-function: ease-in, ease-out, ease-in-out, linear;
 + Definieer de animation in @keyframes
 + Roep de animation-naam op in een element en bepaal hoe het wordt geanimeerd
 
-
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NTY1ODE5LDQzMDYzMzgyNSwtNTYwNj
-QwNzUwLDE2OTE5MzI5ODddfQ==
+eyJoaXN0b3J5IjpbMTMzNjAwMzY4OSw0MzA2MzM4MjUsLTU2MD
+Y0MDc1MCwxNjkxOTMyOTg3XX0=
 -->
