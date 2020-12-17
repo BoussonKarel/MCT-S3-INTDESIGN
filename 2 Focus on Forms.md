@@ -193,13 +193,13 @@ Deze volgorde in de CSS is belangrijk!
 
 #### :hover
 - Gebruiker beweegt over een element
-- Mobiele toestellen: als een gebruiker een element "induwt" en "loslaat"
-  - Er zijn geen specifieke focus of active styles gedeclareerd
+- Mobile: als een gebruiker een element "induwt" en "loslaat"
+  - Geen specifieke focus of active styles gedeclareerd
   - :hover komt na :focus of :active
 
 #### :active
 - Gebruiker klikt met de muis
-- Mobiele toestellen: als een gebruiker een element "induwt"
+- Mobile: als een gebruiker een element "induwt"
 - Extra feedback
 
 #### :focus
@@ -226,10 +226,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTQ5NjE3NywxODQyODE3NzEzLC0yOT
-k2MDM3Nyw1MjkxMTI3ODcsLTQyNDY5MDU4NywtMjAwOTczNjM1
-NCwtODE2Mjc1MDMyLDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNT
-QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
-NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
-01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTg4ODQ0Mzk5MSwxNTAxNDk2MTc3LDE4ND
+I4MTc3MTMsLTI5OTYwMzc3LDUyOTExMjc4NywtNDI0NjkwNTg3
+LC0yMDA5NzM2MzU0LC04MTYyNzUwMzIsNDQxNjgzOTgyLDEwMz
+U4Mjc1ODIsMTE1NDAwNDAyNSwtODcxNzU1NDM0LDU3Njg5OTcw
+NywtMTExODY3NDk0NiwtMTEyMjkyMjQ3OCwxNzAwMjYwMzMzLC
+03MjA5NjczOTgsLTU4ODA4NjAsLTIwODg3NDY2MTJdfQ==
 -->
