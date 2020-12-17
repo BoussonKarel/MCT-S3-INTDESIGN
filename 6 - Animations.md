@@ -185,8 +185,12 @@ div {
 }
 ```
 
+### Animatable CSS properties
+- Welke properties kan je best gebruiken om te animeren?
+- 
+
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDU2NTQ0MCwyMTM2Njc2NDQwXX0=
+eyJoaXN0b3J5IjpbLTE2ODA0Nzc1MjIsMjEzNjY3NjQ0MF19
 -->
