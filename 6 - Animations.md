@@ -82,7 +82,7 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 
 + OPGELET:
   + EASE-**OUT** VOOR **INKOMENDE** ELEMENTEN
-  + EASE-**IN** VOOR UITGAANDE ELEMENTEN
+  + EASE-**IN** VOOR **UITGAANDE** ELEMENTEN
 
 ## Animation on the web
 ### Transition
@@ -90,5 +90,5 @@ Twee variabelen beïnvloeden dit: **duration** en **easing**
 ### High Performance Animations
 ### JS libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDM3NTA0NiwxNjkxOTMyOTg3XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc3ODY3NTgsMTY5MTkzMjk4N119
 -->
