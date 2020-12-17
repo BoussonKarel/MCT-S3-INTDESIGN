@@ -9,15 +9,19 @@
 **Custom property: defining the variable**
 ```css
 :root {
-	--ITS-CASE-SENSITIVE: red;
-	--its-case-sensitive: green;
+	--CASE-SENSITIVE: red;
+	--case-sensitive: green;
 }
 ```
 
 **Cascading variable: applying the variable**
 ```css
 p {
-	color: var(--ITS-CASE-SENSITIVE); /* red */
+	color: var(--CASE-SENSITIVE); /* red */
+}
+
+.foo {
+	background-color: var(--case-sensitive); /* green */
 }
 ```
 
@@ -197,9 +201,9 @@ De hoofdreden om global variables te hebben is consistentie.
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMzQ4MTk0LDE1MjQxMjAwMzksNDQ3Nz
-k4OTM0LC0xMDE4MDY3NTQwLC0xMDkzNjI3MDg0LC01MTE0NjI2
-NjIsNzkyOTEzMTI0LDEyNzM4NTIwMTMsLTg5NTgzMTM4NiwtMT
-c5MTg3MTEzMyw5NzEzMDE4MzUsMTQzMzMwMTA1LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTIxMzg4NzgxODAsMTUyNDEyMDAzOSw0ND
+c3OTg5MzQsLTEwMTgwNjc1NDAsLTEwOTM2MjcwODQsLTUxMTQ2
+MjY2Miw3OTI5MTMxMjQsMTI3Mzg1MjAxMywtODk1ODMxMzg2LC
+0xNzkxODcxMTMzLDk3MTMwMTgzNSwxNDMzMzAxMDUsNzMwOTk4
+MTE2XX0=
 -->
