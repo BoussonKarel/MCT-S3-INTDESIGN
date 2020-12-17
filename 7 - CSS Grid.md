@@ -124,6 +124,15 @@ grid-template-rows: 25% 100px  auto;
 grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];
 grid-template-rows: [row1-start] 25% [row1-end] 100px [third-line] auto [last-line];
 ```
+![](https://i.imgur.com/AiGGf7c.png)
+
+## grid-template-columns / grid-template-rows
+- **Track size special notations**
+  - 1fr: fraction unit: 1 deel van de  overgebleven ruimte
+  - auto: neemt de breedste of hoogste content als basis voor de breedte of hoogte
+  - repeat(12, 1fr): maakt 12 kolommen aan van 1fr
+  - minmax(260px, 1fr): maakt 1 column of row aan van m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNzU2ODQ5LC0xMDM2NjEwNzU0XX0=
+eyJoaXN0b3J5IjpbLTEzMzE4NTA0MTQsLTEwMzY2MTA3NTRdfQ
+==
 -->
