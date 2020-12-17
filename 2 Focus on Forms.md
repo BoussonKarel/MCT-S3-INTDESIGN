@@ -101,7 +101,7 @@ Zien er visueel ongeveer hetzelfde uit als de text-achtigen
 - Apart element
 - drop-down list
 - Option tags define the available options in the list
-- Native select behouden als je designt: gebruiksvriendelijker op smartphone
+- **Native** select behouden als je designt: gebruiksvriendelijker op smartphone
 
 ### Range
 - Slider control
@@ -226,10 +226,10 @@ Deze volgorde in de CSS is belangrijk!
   - Verzorg duidelijke foutboodschappen
   - Zet foutboodschappen inline bij hun input
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjgxNzcxMywtMjk5NjAzNzcsNTI5MT
-EyNzg3LC00MjQ2OTA1ODcsLTIwMDk3MzYzNTQsLTgxNjI3NTAz
-Miw0NDE2ODM5ODIsMTAzNTgyNzU4MiwxMTU0MDA0MDI1LC04Nz
-E3NTU0MzQsNTc2ODk5NzA3LC0xMTE4Njc0OTQ2LC0xMTIyOTIy
-NDc4LDE3MDAyNjAzMzMsLTcyMDk2NzM5OCwtNTg4MDg2MCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTUwMTQ5NjE3NywxODQyODE3NzEzLC0yOT
+k2MDM3Nyw1MjkxMTI3ODcsLTQyNDY5MDU4NywtMjAwOTczNjM1
+NCwtODE2Mjc1MDMyLDQ0MTY4Mzk4MiwxMDM1ODI3NTgyLDExNT
+QwMDQwMjUsLTg3MTc1NTQzNCw1NzY4OTk3MDcsLTExMTg2NzQ5
+NDYsLTExMjI5MjI0NzgsMTcwMDI2MDMzMywtNzIwOTY3Mzk4LC
+01ODgwODYwLC0yMDg4NzQ2NjEyXX0=
 -->
