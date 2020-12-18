@@ -7,7 +7,8 @@ Verandert getallen in verhalen.
 - Geographic distribution
 - Multi-dimension data (meerdere variabelen per categorie)
 
-
+### Wat wil je tonen?
+- Vergelijkg
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -15,6 +16,6 @@ Verandert getallen in verhalen.
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1Nz
-E2MzI3MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjgwMTQ4MDcsLTE4OTUwMzI4NSwtMT
+EzNzE0MTc5Nyw1NzE2MzI3MzVdfQ==
 -->
