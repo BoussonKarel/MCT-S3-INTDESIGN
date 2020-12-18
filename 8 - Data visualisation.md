@@ -41,7 +41,15 @@ Verschillende manieren om dezelfde data te tonen
   - Time based data
   - Categorized data
 - **Niet gebruiken om**
-  - Waarden met verschilled
+  - Waarden met verschillende units te vergelijken
+
+#### Multi-set Bar Chart
+![](https://i.imgur.com/WFrVDLN.png)
+
+#### Histogram
+![](https://i.imgur.com/rcped3F.png)
+
+### 
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -49,6 +57,6 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjA1NTQyNSwxNzU2MDk3MDE2LC0xOD
+eyJoaXN0b3J5IjpbMTg2NDc2MDQxNiwxNzU2MDk3MDE2LC0xOD
 k1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMyNzM1XX0=
 -->
