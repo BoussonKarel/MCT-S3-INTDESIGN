@@ -128,12 +128,23 @@ Bv. verkoopcijfers
 
 ### Scatterplot
 ![](https://i.imgur.com/5YIwMk9.png)
-- Een grafiek met uitgezette punten die de rel
+- Een grafiek met uitgezette punten die de relatie tussen twee sets gegevens weergeven.
+- **Gebruiken voor**
+  - Grote hoeveelheid data
+  - Vergelijken tussen 2 values
+  - Correlatie tussen 2 values
+  - Tijd analyses
+- **Soort data**
+  - categorized data
+  - multi-dimension data
+
+#### Types correlatie
+![](https://i.imgur.com/o1UlWMc.png)
 
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ2Mzg4MzgsLTgzNjcwMDk3NCwxNz
+eyJoaXN0b3J5IjpbLTIwNjUyNjY4MTUsLTgzNjcwMDk3NCwxNz
 U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
 NzM1XX0=
 -->
