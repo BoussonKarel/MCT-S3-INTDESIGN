@@ -63,6 +63,8 @@ Verschillende manieren om dezelfde data te tonen
   - Focus ligt op het vergelijken van de grootte van de individuele categorie
   - De totale som van de elementen in de bar niet relevant is
 
+![](https://i.imgur.com/UsQblHk.png)
+
 
 ## Welke visualisatie?
 ### Soort data
@@ -71,6 +73,7 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjcwMDk3NCwxNzU2MDk3MDE2LC0xOD
-k1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMyNzM1XX0=
+eyJoaXN0b3J5IjpbLTEzMzI3NDQ1MzMsLTgzNjcwMDk3NCwxNz
+U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
+NzM1XX0=
 -->
