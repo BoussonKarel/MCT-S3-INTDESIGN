@@ -87,7 +87,10 @@ Verschillende manieren om dezelfde data te tonen
 ![](https://i.imgur.com/d5XEnth.png)
 
 ### Barchart or Linechart?
+Bv. verkoopcijfers
+![](https://i.imgur.com/s8AVY8m.png)
 
+*Op de barchart zie je duidelijke onderscheiding tussen Januari en Februari. Met de linechart zou je kunnen denken dat de verkoop TUSSEN iets het gemiddelde is van de twee.*
 
 ## Welke visualisatie?
 ### Soort data
@@ -96,7 +99,7 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NjIxMjA0LC04MzY3MDA5NzQsMTc1Nj
+eyJoaXN0b3J5IjpbMTI2MDgxNDE1LC04MzY3MDA5NzQsMTc1Nj
 A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
 NV19
 -->
