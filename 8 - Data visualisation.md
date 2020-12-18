@@ -160,14 +160,22 @@ Bv. verkoopcijfers
 ![](https://i.imgur.com/8RZC6N7.png)
 
 ### Radar
+![](https://i.imgur.com/fAKMRHh.png)
 - Diagram dat wordt gebruikt om gelijktijdig waarden van meerdere indicatoren weer te geven
 - **Gebruiken voor**
   - het vergelijken van meerdere kwantitatieve variabelen
+  - correlaties
+- **Soort data**
+  - categorized data
 
-## Interactie
+## Interactie & animatie
+- Groot deel van data visualisatie
+- Helpt om vergelijkingen nog duidelijker te maken
+- Versterkt het verhaal
+
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYwMzIzMDcsLTgzNjcwMDk3NCwxNz
-U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
-NzM1XX0=
+eyJoaXN0b3J5IjpbMTUzMTA2MDI1NSwtODM2NzAwOTc0LDE3NT
+YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
+MzVdfQ==
 -->
