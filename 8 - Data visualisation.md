@@ -18,7 +18,7 @@ Verandert getallen in verhalen.
 
 Verschillende manieren om dezelfde data te tonen
 
-### Chart models
+## Chart models
 - Barchart & Stacled barchart
 - Linechart
 - Piechart en donut chart
@@ -29,6 +29,19 @@ Verschillende manieren om dezelfde data te tonen
 - ...
 - Combinaties
 - Varianten
+
+### Barchart
+![](https://i.imgur.com/o9P2SZS.png)
+- Horizontale of verticale balken waarvan de lengte de waarde aantoont
+- **Gebruiken voor**
+  - Tijd exploraties
+  - Vergelijken van categorieën
+  - Correlaties aantonen
+- **Soort data**
+  - Time based data
+  - Categorized data
+- **Niet gebruiken om**
+  - Waarden met verschilled
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -36,6 +49,6 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjA5NzAxNiwtMTg5NTAzMjg1LC0xMT
-M3MTQxNzk3LDU3MTYzMjczNV19
+eyJoaXN0b3J5IjpbLTkzMjA1NTQyNSwxNzU2MDk3MDE2LC0xOD
+k1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMyNzM1XX0=
 -->
