@@ -152,12 +152,22 @@ Bv. verkoopcijfers
 - **Gebruiken voor**
   - Alternatief voor bar chart
   - Vergelijken van categorieën door proporties
-  - Onderverdelingen duidelijk
+  - Onderverdelingen duidelijk maken
+- **Soort data**
+  - categorized data
+  - multi-dimensional data
+
+![](https://i.imgur.com/8RZC6N7.png)
+
+### Radar
+- Diagram dat wordt gebruikt om gelijktijdig waarden van meerdere indicatoren weer te geven
+- **Gebruiken voor**
+  - het vergelijken van meerdere kwantitatieve variabelen
 
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzE3ODI3MywtODM2NzAwOTc0LDE3NT
-YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTExMzYwMzIzMDcsLTgzNjcwMDk3NCwxNz
+U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
+NzM1XX0=
 -->
