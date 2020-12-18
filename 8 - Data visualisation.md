@@ -141,10 +141,23 @@ Bv. verkoopcijfers
 #### Types correlatie
 ![](https://i.imgur.com/o1UlWMc.png)
 
+#### Types correlatie
+![](https://i.imgur.com/EOBuPCV.png)
+
+### Bubble chart
+![](https://i.imgur.com/OxLbGyW.png)
+- Multivariabele chart met meerdere variabelen
+- Uitgebreide versie van de scatter plot
+- Kan zonder axis
+- **Gebruiken voor**
+  - Alternatief voor bar chart
+  - Vergelijken van categorieën door proporties
+  - Onderverdelingen duidelijk
+
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUyNjY4MTUsLTgzNjcwMDk3NCwxNz
-U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
-NzM1XX0=
+eyJoaXN0b3J5IjpbMTgzMzE3ODI3MywtODM2NzAwOTc0LDE3NT
+YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
+MzVdfQ==
 -->
