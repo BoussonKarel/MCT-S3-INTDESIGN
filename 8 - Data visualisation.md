@@ -66,6 +66,23 @@ Verschillende manieren om dezelfde data te tonen
 ![](https://i.imgur.com/UsQblHk.png)
 
 
+### Linechart
+![](https://i.imgur.com/8eEMAap.png)
+
+- Serie van data punten geconnecteerd door lijn segmenten
+- **Gebruiken voor**
+  - Tijd analyses (doorlopend)
+  - Vergelijken
+  - Correlaties aantonen
+- **Soort data**
+  - Time based data
+
+#### Grouped Linechart
+![](https://i.imgur.com/8h5igpQ.png)
+
+
+
+
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -73,7 +90,7 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3NDQ1MzMsLTgzNjcwMDk3NCwxNz
-U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
-NzM1XX0=
+eyJoaXN0b3J5IjpbLTMzNDExODk2MiwtODM2NzAwOTc0LDE3NT
+YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
+MzVdfQ==
 -->
