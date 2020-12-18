@@ -52,7 +52,16 @@ Verschillende manieren om dezelfde data te tonen
 ![](https://i.imgur.com/UKCCmMa.png)
 - Elke bar is verdeeld in meerdere categorieën
 - **Gebruiken voor**
- 
+  - Tijd analyses
+  - Vergelijken van categorieën
+  - Correlaties aantonen
+  - Onderverdelingen tonen
+- **Soort data**
+  - Time based data
+  - Categorized data
+- **Niet gebruiken wanneer:**
+  - Focus ligt op het vergelijken van de grootte van de individuele categorie
+  - De totale som van de elementen in de bar niet relevant is
 
 
 ## Welke visualisatie?
@@ -62,6 +71,6 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDYwODg2NjksMTc1NjA5NzAxNiwtMT
-g5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjczNV19
+eyJoaXN0b3J5IjpbLTgzNjcwMDk3NCwxNzU2MDk3MDE2LC0xOD
+k1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMyNzM1XX0=
 -->
