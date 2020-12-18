@@ -80,7 +80,13 @@ Verschillende manieren om dezelfde data te tonen
 #### Grouped Linechart
 ![](https://i.imgur.com/8h5igpQ.png)
 
+#### Area Graph
+![](https://i.imgur.com/H8EFfoE.png)
 
+#### Stacked Area Graph
+![](https://i.imgur.com/d5XEnth.png)
+
+### Barchart or Linechart?
 
 
 ## Welke visualisatie?
@@ -90,7 +96,7 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDExODk2MiwtODM2NzAwOTc0LDE3NT
-YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
-MzVdfQ==
+eyJoaXN0b3J5IjpbNTc4NjIxMjA0LC04MzY3MDA5NzQsMTc1Nj
+A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
+NV19
 -->
