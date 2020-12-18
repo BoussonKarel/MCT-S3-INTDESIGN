@@ -101,11 +101,22 @@ Bv. verkoopcijfers
 - **Gebruiken voor*
   - Vergelijken van categorieën
   - Onderverdelingen 
+- **Soort data**
+  - Categorized data
+- **Niet gebruiken wanneer:**
+  - Er meer dan 6 categorieën zijn
+  - Enkel te gebruiken als er een totaal is
+
+#### Donut chart
+![](https://i.imgur.com/DmCVnZA.png)
+
+### Map
+![enter image description here](https://i.imgur.com/pmL5nSb.png)
 
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODU2NzMzLC04MzY3MDA5NzQsMTc1Nj
-A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
-NV19
+eyJoaXN0b3J5IjpbLTE5MjkyNjM5MCwtODM2NzAwOTc0LDE3NT
+YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
+MzVdfQ==
 -->
