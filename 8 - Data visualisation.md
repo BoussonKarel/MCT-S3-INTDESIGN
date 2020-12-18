@@ -30,8 +30,7 @@ Verschillende manieren om dezelfde data te tonen
 - Combinaties
 - Varianten
 
-### Barchart
-![](https://i.imgur.com/o9P2SZS.png)
+### Barchart![](https://i.imgur.com/o9P2SZS.png)
 - Horizontale of verticale balken waarvan de lengte de waarde aantoont
 - **Gebruiken voor**
   - Tijd exploraties
@@ -49,7 +48,13 @@ Verschillende manieren om dezelfde data te tonen
 #### Histogram
 ![](https://i.imgur.com/rcped3F.png)
 
-### 
+### Stacked barchart
+![](https://i.imgur.com/UKCCmMa.png)
+- Elke bar is verdeeld in meerdere categorieën
+- **Gebruiken voor**
+ 
+
+
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -57,6 +62,6 @@ Verschillende manieren om dezelfde data te tonen
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDc2MDQxNiwxNzU2MDk3MDE2LC0xOD
-k1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMyNzM1XX0=
+eyJoaXN0b3J5IjpbLTIwNDYwODg2NjksMTc1NjA5NzAxNiwtMT
+g5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjczNV19
 -->
