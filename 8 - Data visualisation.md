@@ -120,15 +120,20 @@ Bv. verkoopcijfers
   - Vergelijken
 - **Soort data**
   - Geographic distribution
-![enter image description here](https://i.imgur.com/SijxvzF.png)
+
+![](https://i.imgur.com/SijxvzF.png)
 
 #### Choropleth Map
-![enter image description here](https://i.imgur.com/TjHtY3F.png)
+![](https://i.imgur.com/TjHtY3F.png)
+
+### Scatterplot
+![](https://i.imgur.com/5YIwMk9.png)
+- Een grafiek met uitgezette punten die de rel
 
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NzE5MzU2LC04MzY3MDA5NzQsMTc1Nj
-A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
-NV19
+eyJoaXN0b3J5IjpbLTE4NDQ2Mzg4MzgsLTgzNjcwMDk3NCwxNz
+U2MDk3MDE2LC0xODk1MDMyODUsLTExMzcxNDE3OTcsNTcxNjMy
+NzM1XX0=
 -->
