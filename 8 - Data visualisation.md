@@ -8,7 +8,27 @@ Verandert getallen in verhalen.
 - Multi-dimension data (meerdere variabelen per categorie)
 
 ### Wat wil je tonen?
-- Vergelijkg
+- Vergelijkingen
+- Proporties
+- Tijd
+- Geografie
+- Relaties
+- Correlatie
+- Onderverdelingen
+
+Verschillende manieren om dezelfde data te tonen
+
+### Chart models
+- Barchart & Stacled barchart
+- Linechart
+- Piechart en donut chart
+- Map
+- Scatter plot
+- Bubble chart
+- Radar
+- ...
+- Combinaties
+- Varianten
 ## Welke visualisatie?
 ### Soort data
 ### Wat wil je tonen?
@@ -16,6 +36,6 @@ Verandert getallen in verhalen.
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgwMTQ4MDcsLTE4OTUwMzI4NSwtMT
-EzNzE0MTc5Nyw1NzE2MzI3MzVdfQ==
+eyJoaXN0b3J5IjpbMTc1NjA5NzAxNiwtMTg5NTAzMjg1LC0xMT
+M3MTQxNzk3LDU3MTYzMjczNV19
 -->
