@@ -111,12 +111,24 @@ Bv. verkoopcijfers
 ![](https://i.imgur.com/DmCVnZA.png)
 
 ### Map
-![enter image description here](https://i.imgur.com/pmL5nSb.png)
+![](https://i.imgur.com/pmL5nSb.png)
+
+- Cirkelvormige grafiek verdeeld in segmenten die proporties voorstellen
+- **Gebruiken voor**
+  - Geografische verspreiding
+  - Tijd analyses
+  - Vergelijken
+- **Soort data**
+  - Geographic distribution
+![enter image description here](https://i.imgur.com/SijxvzF.png)
+
+#### Choropleth Map
+![enter image description here](https://i.imgur.com/TjHtY3F.png)
 
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkyNjM5MCwtODM2NzAwOTc0LDE3NT
-YwOTcwMTYsLTE4OTUwMzI4NSwtMTEzNzE0MTc5Nyw1NzE2MzI3
-MzVdfQ==
+eyJoaXN0b3J5IjpbNjM4NzE5MzU2LC04MzY3MDA5NzQsMTc1Nj
+A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
+NV19
 -->
