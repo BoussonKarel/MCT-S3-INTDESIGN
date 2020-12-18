@@ -92,14 +92,20 @@ Bv. verkoopcijfers
 
 *Op de barchart zie je duidelijke onderscheiding tussen Januari en Februari. Met de linechart zou je kunnen denken dat de verkoop TUSSEN iets het gemiddelde is van de twee.*
 
-## Welke visualisatie?
-### Soort data
-### Wat wil je tonen?
-### Chart models
+![](https://i.imgur.com/MrAriF1.png)
+*Bij temperatuur logischer: temperatuur zal ongeveer zoveel zijn, het is doorlopend.*
+
+### Piechart
+![](https://i.imgur.com/FvLQFPH.png)
+- Cirkelvormige grafiek verdeeld in segmenten die proporties voorstellen.
+- **Gebruiken voor*
+  - Vergelijken van categorieën
+  - Onderverdelingen 
+
 ## Interactie
 ## Resources & libraries
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDgxNDE1LC04MzY3MDA5NzQsMTc1Nj
+eyJoaXN0b3J5IjpbLTM3ODU2NzMzLC04MzY3MDA5NzQsMTc1Nj
 A5NzAxNiwtMTg5NTAzMjg1LC0xMTM3MTQxNzk3LDU3MTYzMjcz
 NV19
 -->
